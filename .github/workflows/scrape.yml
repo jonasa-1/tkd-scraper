@@ -90,11 +90,20 @@ jobs:
                           for k in ["event","events","items","list","results"]:
                               if k in nested and isinstance(nested[k], list):
                                   print("  -> nested data." + k + ": " + str(len(nested[k])) + " items")
-                                  # Logga första eventet för debug
+                                  # Logga rådata för första eventet
                                   if nested[k]:
                                       first = nested[k][0]
                                       if isinstance(first, dict):
-                                          print("  -> Första event-nycklar: " + str(list(first.keys())[:15]))
+                                          print("  -> Första event-nycklar: " + str(list(first.keys())))
+                                          # Logga nested data-fältet
+                                          d = first.get("data","")
+                                          if isinstance(d, str) and d:
+                                              import json as _jj
+                                              try:
+                                                  pd = _jj.loads(d)
+                                                  print("  -> data-nycklar: " + str(list(pd.keys())[:20]))
+                                                  print("  -> name=" + str(pd.get("name")) + " city=" + str(pd.get("city") or pd.get("venuCity") or pd.get("venueCity")) + " country=" + str(pd.get("country") or pd.get("venueCountry")))
+                                              except: print("  -> data ej JSON")
                                   return nested[k]
                       print("  -> Inget hittat. Raa svar: " + body[:300], file=sys.stderr)
                       return []
