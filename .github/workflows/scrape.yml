@@ -24,6 +24,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Skapa data-mapp om den saknas
+        run: mkdir -p data
+
       - name: Kör SimplyCompete scraper
         run: python scrapers/scrape_simplycompete.py
         continue-on-error: true   # Fortsätt även om denna misslyckas
