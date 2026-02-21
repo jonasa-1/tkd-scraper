@@ -90,6 +90,11 @@ jobs:
                           for k in ["event","events","items","list","results"]:
                               if k in nested and isinstance(nested[k], list):
                                   print("  -> nested data." + k + ": " + str(len(nested[k])) + " items")
+                                  # Logga första eventet för debug
+                                  if nested[k]:
+                                      first = nested[k][0]
+                                      if isinstance(first, dict):
+                                          print("  -> Första event-nycklar: " + str(list(first.keys())[:15]))
                                   return nested[k]
                       print("  -> Inget hittat. Raa svar: " + body[:300], file=sys.stderr)
                       return []
