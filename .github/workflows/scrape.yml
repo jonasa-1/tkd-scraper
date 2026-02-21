@@ -36,7 +36,7 @@ jobs:
           OUT_FILE  = "data/simplycompete.json"
           PAGE_SIZE = 50
           BASE      = "https://worldtkd.simplycompete.com"
-          COOKIE    = os.environ.get("SC_COOKIE", "")
+          COOKIE    = os.environ.get("SC_COOKIE", "").strip()
 
           if not COOKIE:
               print("SC_COOKIE saknas", file=sys.stderr)
