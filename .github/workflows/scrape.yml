@@ -90,20 +90,6 @@ jobs:
                           for k in ["event","events","items","list","results"]:
                               if k in nested and isinstance(nested[k], list):
                                   print("  -> nested data." + k + ": " + str(len(nested[k])) + " items")
-                                  # Logga rådata för första eventet
-                                  if nested[k]:
-                                      first = nested[k][0]
-                                      if isinstance(first, dict):
-                                          print("  -> Första event-nycklar: " + str(list(first.keys())))
-                                          # Logga nested data-fältet
-                                          d = first.get("data","")
-                                          if isinstance(d, str) and d:
-                                              import json as _jj
-                                              try:
-                                                  pd = _jj.loads(d)
-                                                  print("  -> data-nycklar: " + str(list(pd.keys())[:20]))
-                                                  print("  -> name=" + str(pd.get("name")) + " city=" + str(pd.get("city") or pd.get("venuCity") or pd.get("venueCity")) + " country=" + str(pd.get("country") or pd.get("venueCountry")))
-                                              except: print("  -> data ej JSON")
                                   return nested[k]
                       print("  -> Inget hittat. Raa svar: " + body[:300], file=sys.stderr)
                       return []
@@ -115,30 +101,14 @@ jobs:
                   return None
 
           def norm(raw):
-              # Namn finns ofta nested i raw["data"] som JSON-sträng
-              nested_data = {}
-              if isinstance(raw.get("data"), str):
-                  try:
-                      import json as _j
-                      nested_data = _j.loads(raw["data"])
-                  except: pass
-              elif isinstance(raw.get("data"), dict):
-                  nested_data = raw["data"]
-
-              name = (
-                  raw.get("name") or raw.get("eventName") or raw.get("title") or
-                  nested_data.get("name") or nested_data.get("eventName") or ""
-              ).strip()
+              name    = (raw.get("name") or "").strip()
               if not name: return None
-
-              eid  = raw.get("id") or raw.get("eventId") or raw.get("slug") or ""
-              url  = BASE + "/events/" + str(eid) if eid else BASE + "/events"
-
-              date = next((raw[f] for f in ["startDate","meetingStartDate","eventDate","start_date","date","startDateTime"] if raw.get(f)), None)
-              dl   = next((raw[f] for f in ["registrationDeadline","deadline","registrationClose","closeDate","regDeadline"] if raw.get(f)), None)
-
-              city    = raw.get("venueCity") or raw.get("city") or raw.get("venue") or nested_data.get("city") or ""
-              country = raw.get("venueCountry") or raw.get("country") or raw.get("countryName") or nested_data.get("country") or ""
+              eid     = raw.get("id") or ""
+              url     = BASE + "/events/" + str(eid) if eid else BASE + "/events"
+              date    = raw.get("startDate") or raw.get("meetingStartDate") or raw.get("endDate")
+              dl      = raw.get("registrationDeadline") or raw.get("deadline") or raw.get("closeDate")
+              city    = raw.get("venueCity") or raw.get("venueName") or ""
+              country = raw.get("venueCountry") or raw.get("location") or ""
               return {"name":name,"url":url,"date":date,"deadline":dl,"location":", ".join(filter(None,[city,country])),"country":country,"source":"World Taekwondo (SimplyCompete)"}
 
           all_events = []
