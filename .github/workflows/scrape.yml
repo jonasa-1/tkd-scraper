@@ -80,11 +80,18 @@ jobs:
                           else "nycklar: " + str(list(data.keys())[:8])
                       ))
                       if isinstance(data, list): return data
-                      for k in ["events","data","items","results","eventList","list","content","records","tournaments"]:
+                      for k in ["events","event","items","results","eventList","list","content","records","tournaments"]:
                           if k in data and isinstance(data[k], list):
                               print("  -> hittade '" + k + "' med " + str(len(data[k])) + " items")
                               return data[k]
-                      print("  -> Råsvar: " + body[:300], file=sys.stderr)
+                      # Nested i data["data"]
+                      nested = data.get("data") if isinstance(data.get("data"), dict) else None
+                      if nested:
+                          for k in ["event","events","items","list","results"]:
+                              if k in nested and isinstance(nested[k], list):
+                                  print("  -> nested data." + k + ": " + str(len(nested[k])) + " items")
+                                  return nested[k]
+                      print("  -> Inget hittat. Raa svar: " + body[:300], file=sys.stderr)
                       return []
               except urllib.error.HTTPError as e:
                   print("HTTPError " + str(e.code) + " sida " + str(page), file=sys.stderr)
