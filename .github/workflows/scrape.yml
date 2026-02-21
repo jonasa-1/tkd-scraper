@@ -113,15 +113,27 @@ jobs:
 
           all_events = []
           page = 1
-          while page <= 20:
+          retries = 0
+          while page <= 30:
               print("Sida " + str(page) + "...")
               items = fetch_page(page, size=12)
-              if items is None: break
+              if items is None:
+                  # 403 - vänta och försök igen
+                  if retries < 3:
+                      retries += 1
+                      wait = retries * 10
+                      print("  Väntar " + str(wait) + "s innan retry " + str(retries) + "...")
+                      time.sleep(wait)
+                      continue
+                  else:
+                      print("  Max retries nådda, avslutar")
+                      break
+              retries = 0
               if not items: break
               all_events += [e for e in (norm(r) for r in items if isinstance(r,dict)) if e]
               if len(items) < 12: break
               page += 1
-              time.sleep(0.5)
+              time.sleep(3)  # 3s paus mellan sidor
 
           out = {"updated_at": datetime.now(timezone.utc).isoformat(), "count": len(all_events), "events": all_events}
           json.dump(out, open(OUT_FILE,"w",encoding="utf-8"), ensure_ascii=False, indent=2)
