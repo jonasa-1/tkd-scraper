@@ -106,14 +106,30 @@ jobs:
                   return None
 
           def norm(raw):
-              name = (raw.get("name") or raw.get("eventName") or raw.get("title") or "").strip()
+              # Namn finns ofta nested i raw["data"] som JSON-sträng
+              nested_data = {}
+              if isinstance(raw.get("data"), str):
+                  try:
+                      import json as _j
+                      nested_data = _j.loads(raw["data"])
+                  except: pass
+              elif isinstance(raw.get("data"), dict):
+                  nested_data = raw["data"]
+
+              name = (
+                  raw.get("name") or raw.get("eventName") or raw.get("title") or
+                  nested_data.get("name") or nested_data.get("eventName") or ""
+              ).strip()
               if not name: return None
+
               eid  = raw.get("id") or raw.get("eventId") or raw.get("slug") or ""
               url  = BASE + "/events/" + str(eid) if eid else BASE + "/events"
-              date = next((raw[f] for f in ["startDate","eventDate","start_date","date","startDateTime"] if raw.get(f)), None)
-              dl   = next((raw[f] for f in ["registrationDeadline","deadline","registrationClose","closeDate"] if raw.get(f)), None)
-              city    = raw.get("city") or raw.get("venue") or ""
-              country = raw.get("country") or raw.get("countryName") or ""
+
+              date = next((raw[f] for f in ["startDate","meetingStartDate","eventDate","start_date","date","startDateTime"] if raw.get(f)), None)
+              dl   = next((raw[f] for f in ["registrationDeadline","deadline","registrationClose","closeDate","regDeadline"] if raw.get(f)), None)
+
+              city    = raw.get("venueCity") or raw.get("city") or raw.get("venue") or nested_data.get("city") or ""
+              country = raw.get("venueCountry") or raw.get("country") or raw.get("countryName") or nested_data.get("country") or ""
               return {"name":name,"url":url,"date":date,"deadline":dl,"location":", ".join(filter(None,[city,country])),"country":country,"source":"World Taekwondo (SimplyCompete)"}
 
           all_events = []
