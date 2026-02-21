@@ -1,0 +1,54 @@
+name: Scrape TKD Events
+
+on:
+  schedule:
+    # Kör var 6:e timme: 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch:
+    # Tillåter manuell körning via GitHub UI (knappen "Run workflow")
+
+permissions:
+  contents: write   # Behövs för att pusha data/*.json tillbaka till repot
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checka ut repo
+        uses: actions/checkout@v4
+
+      - name: Sätt upp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Kör SimplyCompete scraper
+        run: python scrapers/scrape_simplycompete.py
+        continue-on-error: true   # Fortsätt även om denna misslyckas
+
+      - name: Kör MA-RegOnline scraper
+        run: python scrapers/scrape_maregonline.py
+        continue-on-error: true
+
+      - name: Visa resultat
+        run: |
+          echo "=== SimplyCompete ==="
+          cat data/simplycompete.json | python -c "import json,sys; d=json.load(sys.stdin); print(f'Events: {d[\"count\"]}, Uppdaterad: {d[\"updated_at\"]}')" 2>/dev/null || echo "Fil saknas eller felaktig"
+          echo "=== MA-RegOnline ==="
+          cat data/maregonline.json | python -c "import json,sys; d=json.load(sys.stdin); print(f'Events: {d[\"count\"]}, Uppdaterad: {d[\"updated_at\"]}')" 2>/dev/null || echo "Fil saknas eller felaktig"
+
+      - name: Committa och pusha data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # Committa bara om något faktiskt ändrats
+          if git diff --staged --quiet; then
+            echo "Ingen ändring i data, hoppar över commit"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "chore: uppdatera events-data ${TIMESTAMP}"
+            git push
+          fi
