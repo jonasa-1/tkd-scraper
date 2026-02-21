@@ -26,149 +26,19 @@ jobs:
         run: mkdir -p data
 
       - name: Kör SimplyCompete scraper
-        run: |
-          python3 - << 'PYEOF'
-          import json, sys, time, urllib.request, urllib.parse, urllib.error
-          from datetime import datetime, timezone
-
-          API_BASE  = "https://worldtkd.simplycompete.com/eventList"
-          OUT_FILE  = "data/simplycompete.json"
-          PAGE_SIZE = 50
-
-          HEADERS = {
-              "Accept": "application/json, text/plain, */*",
-              "Accept-Language": "en-US,en;q=0.9",
-              "Referer": "https://worldtkd.simplycompete.com/events",
-              "Origin": "https://worldtkd.simplycompete.com",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36",
-              "sec-fetch-dest": "empty",
-              "sec-fetch-mode": "cors",
-              "sec-fetch-site": "same-origin",
-          }
-
-          def fetch_page(page):
-              params = urllib.parse.urlencode({"da":"true","eventType":"All","invitationStatus":"all","isArchived":"false","itemsPerPage":PAGE_SIZE,"pageNumber":page})
-              req = urllib.request.Request(f"{API_BASE}?{params}", headers=HEADERS)
-              try:
-                  with urllib.request.urlopen(req, timeout=30) as r:
-                      body = r.read().decode("utf-8")
-                      data = json.loads(body)
-                      if isinstance(data, list): return data
-                      for k in ["events","data","items","results","eventList"]:
-                          if k in data and isinstance(data[k], list): return data[k]
-                      print(f"Okänd struktur: {list(data.keys())[:5]}", file=sys.stderr)
-                      return []
-              except urllib.error.HTTPError as e:
-                  print(f"HTTPError {e.code} sida {page}", file=sys.stderr)
-                  return []
-              except Exception as e:
-                  print(f"Fel: {e}", file=sys.stderr)
-                  return []
-
-          def norm(raw):
-              name = (raw.get("name") or raw.get("eventName") or raw.get("title") or "").strip()
-              if not name: return None
-              eid = raw.get("id") or raw.get("eventId") or raw.get("slug") or ""
-              url = f"https://worldtkd.simplycompete.com/events/{eid}" if eid else "https://worldtkd.simplycompete.com/events"
-              date = next((raw[f] for f in ["startDate","eventDate","start_date","date","startDateTime"] if raw.get(f)), None)
-              dl   = next((raw[f] for f in ["registrationDeadline","deadline","registrationClose","closeDate"] if raw.get(f)), None)
-              city    = raw.get("city") or raw.get("venue") or ""
-              country = raw.get("country") or raw.get("countryName") or ""
-              return {"name":name,"url":url,"date":date,"deadline":dl,"location":", ".join(filter(None,[city,country])),"country":country,"source":"World Taekwondo (SimplyCompete)"}
-
-          all_events = []
-          for page in range(1, 11):
-              print(f"Sida {page}...")
-              items = fetch_page(page)
-              if not items: break
-              all_events += [e for e in (norm(r) for r in items if isinstance(r,dict)) if e]
-              if len(items) < PAGE_SIZE: break
-              time.sleep(0.5)
-
-          out = {"updated_at": datetime.now(timezone.utc).isoformat(), "count": len(all_events), "events": all_events}
-          json.dump(out, open(OUT_FILE,"w",encoding="utf-8"), ensure_ascii=False, indent=2)
-          print(f"Sparade {len(all_events)} events")
-          PYEOF
+        run: python3 scrapers/scrape_simplycompete.py
         continue-on-error: true
 
       - name: Kör MA-RegOnline scraper
-        run: |
-          python3 - << 'PYEOF'
-          import json, re, sys, urllib.request, urllib.error
-          from datetime import datetime, timezone
-          from html import unescape
-
-          BASE_URL = "https://www.ma-regonline.com"
-          OUT_FILE = "data/maregonline.json"
-
-          HEADERS = {
-              "Accept": "text/html,application/xhtml+xml,*/*;q=0.8",
-              "Accept-Language": "en-US,en;q=0.5",
-              "Connection": "keep-alive",
-              "Upgrade-Insecure-Requests": "1",
-              "Sec-Fetch-Dest": "document",
-              "Sec-Fetch-Mode": "navigate",
-              "Sec-Fetch-Site": "none",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36",
-          }
-
-          MONTHS = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,"jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12}
-
-          def parse_date(s):
-              m = re.match(r"(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})", s.strip())
-              if not m: return None
-              day, mon, yr = int(m.group(1)), m.group(2).lower()[:3], int(m.group(3))
-              if mon not in MONTHS: return None
-              try: return datetime(yr, MONTHS[mon], day).strftime("%Y-%m-%d")
-              except: return None
-
-          req = urllib.request.Request(f"{BASE_URL}/", headers=HEADERS)
-          try:
-              with urllib.request.urlopen(req, timeout=30) as r:
-                  body = r.read().decode("utf-8", errors="replace")
-          except Exception as e:
-              print(f"Fel: {e}", file=sys.stderr)
-              body = ""
-
-          if not body or "Imunify360" in body:
-              print("Blockerad av Imunify360" if body else "Tom respons", file=sys.stderr)
-              out = {"updated_at": datetime.now(timezone.utc).isoformat(), "count": 0, "events": [], "error": "blocked"}
-              json.dump(out, open(OUT_FILE,"w"), indent=2)
-              sys.exit(0)
-
-          events = []
-          pat = re.compile(r'<a[\s\S]*?href=["\'](/tournaments/\d+/[^"\']+)["\'][\s\S]*?>([^<]+)</a>', re.I)
-          for m in pat.finditer(body):
-              href = m.group(1)
-              name = unescape(m.group(2)).strip()
-              if not name or len(name) < 3: continue
-              after = unescape(re.sub(r"<[^>]+>","", body[m.end():m.end()+300]))
-              dm = re.search(r"(\d{1,2}\s+[A-Za-z]+\s+\d{4})", after)
-              if not dm: continue
-              d = parse_date(dm.group(1))
-              if not d: continue
-              try:
-                  if datetime.strptime(d,"%Y-%m-%d") < datetime.now(): continue
-              except: pass
-              dlm = re.search(r"Deadline:\s*(\d{1,2}\s+[A-Za-z]+\s+\d{4})", after, re.I)
-              dl = parse_date(dlm.group(1)) if dlm else None
-              before = body[max(0,m.start()-300):m.start()]
-              fm = re.search(r'<img[\s\S]*?alt=["\']([^"\']+)["\'][\s\S]*?flags[\s\S]*?>', before, re.I)
-              country = unescape(fm.group(1)).strip() if fm else ""
-              events.append({"name":name,"url":BASE_URL+href,"date":d,"deadline":dl,"location":country,"country":country,"source":"MA-RegOnline"})
-
-          out = {"updated_at": datetime.now(timezone.utc).isoformat(), "count": len(events), "events": events}
-          json.dump(out, open(OUT_FILE,"w",encoding="utf-8"), ensure_ascii=False, indent=2)
-          print(f"Sparade {len(events)} events")
-          PYEOF
+        run: python3 scrapers/scrape_maregonline.py
         continue-on-error: true
 
       - name: Visa resultat
         run: |
           echo "=== SimplyCompete ==="
-          python3 -c "import json; d=json.load(open('data/simplycompete.json')); print(f'Events: {d[\"count\"]}, Uppdaterad: {d[\"updated_at\"]}')" 2>/dev/null || echo "Fil saknas"
+          python3 -c "import json; d=json.load(open('data/simplycompete.json')); print(f'Events: {d[\"count\"]}')" 2>/dev/null || echo "Fil saknas"
           echo "=== MA-RegOnline ==="
-          python3 -c "import json; d=json.load(open('data/maregonline.json')); print(f'Events: {d[\"count\"]}, Uppdaterad: {d[\"updated_at\"]}')" 2>/dev/null || echo "Fil saknas"
+          python3 -c "import json; d=json.load(open('data/maregonline.json')); print(f'Events: {d[\"count\"]}')" 2>/dev/null || echo "Fil saknas"
 
       - name: Committa och pusha data
         run: |
@@ -176,7 +46,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
           if git diff --staged --quiet; then
-            echo "Ingen ändring, hoppar över commit"
+            echo "Ingen ändring"
           else
             git commit -m "chore: uppdatera events-data $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
