@@ -11,7 +11,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
       - name: Checka ut repo
@@ -22,112 +22,101 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Installera Playwright
+        run: |
+          pip install playwright
+          playwright install chromium
+
       - name: Skapa data-mapp
         run: mkdir -p data
 
-      - name: Kör SimplyCompete scraper
+      - name: Kör SimplyCompete scraper (Playwright)
         shell: python
         run: |
-          import json, sys, time, urllib.request, urllib.parse, urllib.error
+          import json, sys, re
           from datetime import datetime, timezone
+          from playwright.sync_api import sync_playwright
 
-          OUT_FILE  = "data/simplycompete.json"
-          PAGE_SIZE = 50
-          BASE      = "https://worldtkd.simplycompete.com"
+          OUT_FILE = "data/simplycompete.json"
+          BASE     = "https://worldtkd.simplycompete.com"
 
-          ENDPOINTS = [
-              BASE + "/api/events",
-              BASE + "/api/v1/events",
-              BASE + "/api/v2/events",
-              BASE + "/events/list",
-              BASE + "/eventList",
-              BASE + "/api/eventList",
-          ]
+          events = []
+          api_data = []
 
-          HEADERS = {
-              "Accept": "application/json, text/plain, */*",
-              "Accept-Language": "en-US,en;q=0.9",
-              "Referer": BASE + "/events",
-              "Origin": BASE,
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36",
-              "sec-fetch-dest": "empty",
-              "sec-fetch-mode": "cors",
-              "sec-fetch-site": "same-origin",
-          }
+          with sync_playwright() as p:
+              browser = p.chromium.launch(headless=True)
+              context = browser.new_context(
+                  user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                  viewport={"width": 1280, "height": 800},
+              )
 
-          def try_ep(url):
-              params = urllib.parse.urlencode({"da":"true","eventType":"All","invitationStatus":"all","isArchived":"false","itemsPerPage":PAGE_SIZE,"pageNumber":1})
-              req = urllib.request.Request(url + "?" + params, headers=HEADERS)
+              # Fånga API-anrop som sidan gör
+              captured = []
+              def handle_response(response):
+                  url = response.url
+                  if "event" in url.lower() and response.request.resource_type in ("xhr", "fetch"):
+                      try:
+                          body = response.json()
+                          captured.append({"url": url, "data": body})
+                          print("Fångad XHR:", url)
+                      except:
+                          pass
+
+              page = context.new_page()
+              page.on("response", handle_response)
+
+              print("Öppnar events-sidan...")
               try:
-                  with urllib.request.urlopen(req, timeout=15) as r:
-                      if r.status != 200:
-                          return None, "HTTP " + str(r.status)
-                      body = r.read().decode("utf-8")
-                      if not body.lstrip().startswith(("[","{")):
-                          return None, "Inte JSON: " + body.strip()[:60]
-                      return json.loads(body), None
-              except urllib.error.HTTPError as e:
-                  return None, "HTTPError " + str(e.code)
+                  page.goto(f"{BASE}/events", wait_until="networkidle", timeout=30000)
               except Exception as e:
-                  return None, str(e)
+                  print("Timeout/fel vid sidladdning:", e, file=sys.stderr)
 
-          def items(data):
-              if isinstance(data, list): return data
-              for k in ["events","data","items","results","eventList","list"]:
-                  if k in data and isinstance(data[k], list): return data[k]
-              return []
+              # Vänta på att events laddas
+              page.wait_for_timeout(5000)
 
+              # Logga alla fångade anrop
+              print(f"Antal fångade XHR/fetch: {len(captured)}")
+              for c in captured:
+                  print("  URL:", c["url"])
+                  data = c["data"]
+                  items = data if isinstance(data, list) else data.get("events") or data.get("data") or data.get("items") or []
+                  if items:
+                      print(f"    -> {len(items)} items")
+                      api_data.extend(items)
+
+              if not api_data:
+                  # Fallback: försök extrahera direkt från DOM
+                  print("Ingen API-data, försöker DOM...", file=sys.stderr)
+                  html = page.content()
+
+                  # Sök efter event-kort/rader i HTML
+                  names = page.locator("[class*='event'], [class*='Event'], [data-event], tr[class*='row']").all_text_contents()
+                  print(f"DOM-element funna: {len(names)}", file=sys.stderr)
+
+                  # Logga HTML-snippet för debug
+                  snippet = html[html.find("<body"):html.find("<body")+2000] if "<body" in html else html[:2000]
+                  print("HTML-snippet:", snippet[:500], file=sys.stderr)
+
+              browser.close()
+
+          # Normalisera API-data
           def norm(raw):
+              if not isinstance(raw, dict): return None
               name = (raw.get("name") or raw.get("eventName") or raw.get("title") or "").strip()
               if not name: return None
               eid  = raw.get("id") or raw.get("eventId") or raw.get("slug") or ""
-              url  = BASE + "/events/" + str(eid) if eid else BASE + "/events"
+              url  = f"{BASE}/events/{eid}" if eid else f"{BASE}/events"
               date = next((raw[f] for f in ["startDate","eventDate","start_date","date","startDateTime"] if raw.get(f)), None)
               dl   = next((raw[f] for f in ["registrationDeadline","deadline","registrationClose","closeDate"] if raw.get(f)), None)
               city    = raw.get("city") or raw.get("venue") or ""
               country = raw.get("country") or raw.get("countryName") or ""
               return {"name":name,"url":url,"date":date,"deadline":dl,"location":", ".join(filter(None,[city,country])),"country":country,"source":"World Taekwondo (SimplyCompete)"}
 
-          working = None
-          for ep in ENDPOINTS:
-              data, err = try_ep(ep)
-              if data is not None:
-                  it = items(data)
-                  if it:
-                      working = ep
-                      print("Fungerande endpoint:", ep, "(" + str(len(it)) + " items)")
-                      break
-                  else:
-                      print("  " + ep + ": OK men inga items", file=sys.stderr)
-              else:
-                  print("  " + ep + ": " + str(err), file=sys.stderr)
+          events = [e for e in (norm(r) for r in api_data) if e]
 
-          if not working:
-              print("Ingen endpoint fungerade", file=sys.stderr)
-              out = {"updated_at": datetime.now(timezone.utc).isoformat(), "count": 0, "events": [], "error": "no working endpoint"}
-              json.dump(out, open(OUT_FILE,"w"), indent=2)
-              sys.exit(0)
-
-          all_events = []
-          page = 1
-          while page <= 10:
-              params = urllib.parse.urlencode({"da":"true","eventType":"All","invitationStatus":"all","isArchived":"false","itemsPerPage":PAGE_SIZE,"pageNumber":page})
-              req = urllib.request.Request(working + "?" + params, headers=HEADERS)
-              try:
-                  with urllib.request.urlopen(req, timeout=15) as r:
-                      it = items(json.loads(r.read().decode("utf-8")))
-              except Exception as e:
-                  print("Sida " + str(page) + " fel: " + str(e), file=sys.stderr)
-                  break
-              if not it: break
-              all_events += [e for e in (norm(r) for r in it if isinstance(r,dict)) if e]
-              if len(it) < PAGE_SIZE: break
-              page += 1
-              time.sleep(0.3)
-
-          out = {"updated_at": datetime.now(timezone.utc).isoformat(), "count": len(all_events), "events": all_events}
+          out = {"updated_at": datetime.now(timezone.utc).isoformat(), "count": len(events), "events": events}
           json.dump(out, open(OUT_FILE,"w",encoding="utf-8"), ensure_ascii=False, indent=2)
-          print("Sparade " + str(len(all_events)) + " events")
+          print(f"Sparade {len(events)} events")
         continue-on-error: true
 
       - name: Kör MA-RegOnline scraper
