@@ -104,7 +104,7 @@ jobs:
               name    = (raw.get("name") or "").strip()
               if not name: return None
               eid     = raw.get("id") or ""
-              url     = BASE + "/events/" + str(eid) if eid else BASE + "/events"
+              url     = BASE + "/eventDetails/" + str(eid) + "/1" if eid else BASE + "/events"
               date    = raw.get("startDate") or raw.get("meetingStartDate") or raw.get("endDate")
               dl      = raw.get("registrationDeadline") or raw.get("deadline") or raw.get("closeDate")
               city    = raw.get("venueCity") or raw.get("venueName") or ""
