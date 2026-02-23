@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T06:49:48.911121+00:00",
-  "count": 117,
+  "updated_at": "2026-02-23T18:44:30.211014+00:00",
+  "count": 120,
   "events": [
     {
       "name": "(Poomsae) 2026 Canada Open",
@@ -264,12 +264,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Spanish Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd44-8955-5633-a1db-066b11207e5b/1",
+      "name": "Spanish Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110b7-1edf-82ab-a059-063ab986362d/1",
       "date": "04/17/2026",
       "deadline": null,
-      "location": "ALICANTE, SPAIN",
-      "country": "ALICANTE, SPAIN",
+      "location": "Alicante, Spain",
+      "country": "Spain",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -450,6 +450,15 @@
       "deadline": null,
       "location": "ULAANBAATAR, MONGOLIA",
       "country": "ULAANBAATAR, MONGOLIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 ETU Grand Prix Open Qualification Tournament Ramus E6",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110a6-fe69-37d3-a059-063ab986362d/1",
+      "date": "05/30/2026",
+      "deadline": null,
+      "location": "Sofia, Bulgaria",
+      "country": "Bulgaria",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -903,6 +912,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "2026 ETU Grand Prix Open Qualification Tournament Vrsac E6",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110a7-c880-4c2a-a059-063ab986362d/1",
+      "date": "10/17/2026",
+      "deadline": null,
+      "location": "Vrsac, Serbia",
+      "country": "Serbia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "6th Qatar Open Championship 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-875b-8bbe-a1db-066b11207e5b/1",
       "date": "10/17/2026",
@@ -1026,6 +1044,15 @@
       "deadline": null,
       "location": "BANGKOK, THAILAND",
       "country": "BANGKOK, THAILAND",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 ETU Grand Prix Open Final E10",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110a8-4f67-aaae-a059-063ab986362d/1",
+      "date": "12/05/2026",
+      "deadline": null,
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
