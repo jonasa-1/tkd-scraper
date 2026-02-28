@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-27T18:24:06.327844+00:00",
-  "count": 119,
+  "updated_at": "2026-02-28T06:24:28.189041+00:00",
+  "count": 118,
   "events": [
     {
       "name": "(Kyorugi) 2026 Canada Open",
@@ -9,15 +9,6 @@
       "deadline": null,
       "location": "Calgary, Canada",
       "country": "Canada",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Kyorugi) 2026 Bulgaria Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0dcd8-d6cd-bf35-9519-0627966c6bdb/1",
-      "date": "02/27/2026",
-      "deadline": null,
-      "location": "Sofia, Bulgaria",
-      "country": "Bulgaria",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
