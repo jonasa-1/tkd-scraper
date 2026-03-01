@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-01T06:30:52.837047+00:00",
+  "updated_at": "2026-03-01T18:03:06.215087+00:00",
   "count": 115,
   "events": [
     {
@@ -427,11 +427,11 @@
     },
     {
       "name": "Rome 2026 World Taekwondo Grand Prix Series",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd47-f81f-204d-a1db-066b11207e5b/1",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1154e-2d8f-3c05-80f0-02074336c3e7/1",
       "date": "06/04/2026",
       "deadline": null,
-      "location": "ROME, ITALY",
-      "country": "ROME, ITALY",
+      "location": "Rome, Italy",
+      "country": "Italy",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
