@@ -1,34 +1,7 @@
 {
-  "updated_at": "2026-02-28T18:01:44.503557+00:00",
-  "count": 118,
+  "updated_at": "2026-03-01T06:30:52.837047+00:00",
+  "count": 115,
   "events": [
-    {
-      "name": "(Kyorugi) 2026 Canada Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0c2d4-ec34-be5e-b5c3-0627966c6bdb/1",
-      "date": "02/27/2026",
-      "deadline": null,
-      "location": "Calgary, Canada",
-      "country": "Canada",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Onsite) IR Refresher_157th Kyorugi (Ho Chi Minh, Vietnam)",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0db41-5fe3-3c7a-9519-0627966c6bdb/1",
-      "date": "02/26/2026",
-      "deadline": null,
-      "location": "Ho Chi Minh city, Vietnam",
-      "country": "Vietnam",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Poomsae) 2026 Bulgaria Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0de4f-0dad-0217-9519-0627966c6bdb/1",
-      "date": "03/01/2026",
-      "deadline": null,
-      "location": "Sofia, Bulgaria",
-      "country": "Bulgaria",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "(Youth) 2026 Slovenia Open E2",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0eb05-3fa2-c18a-9f64-027be1645a55/1",
