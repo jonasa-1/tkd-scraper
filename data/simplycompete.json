@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-02T06:39:50.088347+00:00",
+  "updated_at": "2026-03-02T18:29:17.823068+00:00",
   "count": 115,
   "events": [
     {
@@ -261,6 +261,15 @@
       "deadline": null,
       "location": "DAMASCUS, SYRIAN ARAB REPUBLIC",
       "country": "DAMASCUS, SYRIAN ARAB REPUBLIC",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "ADVANCED P30 CLASSIFICATION COURSE (ONSITE)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11655-9786-7b3f-80f0-02074336c3e7/1",
+      "date": "04/26/2026",
+      "deadline": null,
+      "location": "London, Great Britain",
+      "country": "Great Britain",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -693,15 +702,6 @@
       "deadline": null,
       "location": "LIMA, PERU",
       "country": "LIMA, PERU",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Swiss Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4e-92ed-a776-a1db-066b11207e5b/1",
-      "date": "09/05/2026",
-      "deadline": null,
-      "location": "ST. GALLEN, SWITZERLAND",
-      "country": "ST. GALLEN, SWITZERLAND",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
