@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-02T18:29:17.823068+00:00",
-  "count": 115,
+  "updated_at": "2026-03-03T06:34:24.265839+00:00",
+  "count": 117,
   "events": [
     {
       "name": "(Youth) 2026 Slovenia Open E2",
@@ -696,6 +696,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Youth) 2026 Swiss Open E2",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11667-68d1-373f-80f0-02074336c3e7/1",
+      "date": "09/04/2026",
+      "deadline": null,
+      "location": "St. Gallen, Switzerland",
+      "country": "Switzerland",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "Nations Cup Peru 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4d-44a6-17c8-a1db-066b11207e5b/1",
       "date": "09/03/2026",
@@ -711,6 +720,15 @@
       "deadline": null,
       "location": "ST. GALLEN, SWITZERLAND",
       "country": "ST. GALLEN, SWITZERLAND",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Seniors) Swiss Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11669-cb44-165a-80f0-02074336c3e7/1",
+      "date": "09/06/2026",
+      "deadline": null,
+      "location": "St. Gallen, Switzerland",
+      "country": "Switzerland",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
