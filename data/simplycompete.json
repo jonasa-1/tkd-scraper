@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-07T18:02:08.279512+00:00",
-  "count": 116,
+  "updated_at": "2026-03-08T06:27:08.096894+00:00",
+  "count": 115,
   "events": [
     {
       "name": "(Kyorugi) 2026 U.S. Open Championships",
@@ -36,15 +36,6 @@
       "deadline": null,
       "location": "Las Vegas, United States of America",
       "country": "United States of America",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Seniors) Slovenia Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0eb07-5d38-140e-9f64-027be1645a55/1",
-      "date": "03/08/2026",
-      "deadline": null,
-      "location": "Ljubljana, Slovenia",
-      "country": "Slovenia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -426,12 +417,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Rome 2026 World Para Taekwondo Grand Prix Series",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-489d-7e38-a1db-066b11207e5b/1",
+      "name": "ROMA 2026 World Para Taekwondo Grand-Prix",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11a5a-4819-b91d-94f3-02074336c3e7/1",
       "date": "06/04/2026",
       "deadline": null,
-      "location": "ROME, ITALY",
-      "country": "ROME, ITALY",
+      "location": "Rome, Italy",
+      "country": "Italy",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
