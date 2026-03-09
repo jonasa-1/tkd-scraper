@@ -1,43 +1,7 @@
 {
-  "updated_at": "2026-03-08T18:16:10.613836+00:00",
-  "count": 115,
+  "updated_at": "2026-03-09T06:45:16.087446+00:00",
+  "count": 111,
   "events": [
-    {
-      "name": "(Kyorugi) 2026 U.S. Open Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0b499-d87a-3924-9087-0627966c6bdb/1",
-      "date": "03/05/2026",
-      "deadline": null,
-      "location": "Las Vegas, United States of America",
-      "country": "United States of America",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Poomsae) 2026 U.S. Open Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0b730-48f7-d59d-9087-0627966c6bdb/1",
-      "date": "03/05/2026",
-      "deadline": null,
-      "location": "Las Vegas, United States of America",
-      "country": "United States of America",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Para Kyorugi) 2026 U.S. Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0dbfc-2cbe-f94a-9519-0627966c6bdb/1",
-      "date": "03/05/2026",
-      "deadline": null,
-      "location": "Las Vegas, United States of America",
-      "country": "United States of America",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Para Poomsae) 2026 U.S. Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0dbfd-dcfb-22d1-9519-0627966c6bdb/1",
-      "date": "03/05/2026",
-      "deadline": null,
-      "location": "Las Vegas, United States of America",
-      "country": "United States of America",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "Dutch Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0e4a7-a5e1-df07-a2e7-0627966c6bdb/1",
