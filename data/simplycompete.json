@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T18:31:53.364595+00:00",
+  "updated_at": "2026-03-11T06:35:45.283528+00:00",
   "count": 112,
   "events": [
     {
@@ -579,12 +579,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Portugal Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4b-7dcc-710d-a1db-066b11207e5b/1",
+      "name": "Portugal Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11cb4-16a5-2a92-94f3-02074336c3e7/1",
       "date": "07/25/2026",
       "deadline": null,
-      "location": "PORTO, PORTUGAL",
-      "country": "PORTO, PORTUGAL",
+      "location": "Porto, Portugal",
+      "country": "Portugal",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -669,17 +669,17 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Swiss Open Para Taekwondo",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdca-9529-a235-a1db-066b11207e5b/1",
+      "name": "(Seniors) Swiss Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11669-cb44-165a-80f0-02074336c3e7/1",
       "date": "09/06/2026",
       "deadline": null,
-      "location": "ST. GALLEN, SWITZERLAND",
-      "country": "ST. GALLEN, SWITZERLAND",
+      "location": "St. Gallen, Switzerland",
+      "country": "Switzerland",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "(Seniors) Swiss Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11669-cb44-165a-80f0-02074336c3e7/1",
+      "name": "Swiss Open Para Taekwondo 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11cba-cab1-7bd4-94f3-02074336c3e7/1",
       "date": "09/06/2026",
       "deadline": null,
       "location": "St. Gallen, Switzerland",
