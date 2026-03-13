@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-12T18:35:43.454457+00:00",
-  "count": 112,
+  "updated_at": "2026-03-13T06:35:49.009097+00:00",
+  "count": 113,
   "events": [
     {
       "name": "Dutch Open 2026",
@@ -363,6 +363,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Onsite) IR Seminar_(140th Kyorugi, Istanbul, Turkiye Invitation Based",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11e74-351f-2852-94f3-02074336c3e7/1",
+      "date": "05/22/2026",
+      "deadline": null,
+      "location": "Istanbul, Türkiye",
+      "country": "Türkiye",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "Aichi Nagoya 2026 Asian Para Games Qualification Tournament",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc8-e48f-534e-a1db-066b11207e5b/1",
       "date": "05/26/2026",
@@ -372,8 +381,8 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "2026 ETU Grand Prix Open Qualification Tournament Ramus E6",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110a6-fe69-37d3-a059-063ab986362d/1",
+      "name": "2026 ETU Grand Prix Open Ramus E6",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11e71-e2b9-7a5a-94f3-02074336c3e7/1",
       "date": "05/30/2026",
       "deadline": null,
       "location": "Sofia, Bulgaria",
