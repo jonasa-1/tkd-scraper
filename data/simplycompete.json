@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-13T06:35:49.009097+00:00",
-  "count": 113,
+  "updated_at": "2026-03-13T18:24:35.145206+00:00",
+  "count": 114,
   "events": [
     {
       "name": "Dutch Open 2026",
@@ -265,11 +265,11 @@
     },
     {
       "name": "Pan American Taekwondo Championship 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd46-1c8b-61f2-a1db-066b11207e5b/1",
-      "date": "05/07/2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11efb-b5df-7077-94f3-02074336c3e7/1",
+      "date": "05/08/2026",
       "deadline": null,
-      "location": "RIO DE JANEIRO, BRAZIL",
-      "country": "RIO DE JANEIRO, BRAZIL",
+      "location": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -324,6 +324,15 @@
       "deadline": null,
       "location": "ULAANBAATAR, MONGOLIA",
       "country": "ULAANBAATAR, MONGOLIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Onsite) IR Refresher_159th Kyorugi (Istanbul, Turkiye)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11ef9-09c9-673e-94f3-02074336c3e7/1",
+      "date": "05/18/2026",
+      "deadline": null,
+      "location": "Istanbul, Türkiye",
+      "country": "Türkiye",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
