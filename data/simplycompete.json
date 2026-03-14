@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-13T18:24:35.145206+00:00",
-  "count": 114,
+  "updated_at": "2026-03-14T06:30:47.282388+00:00",
+  "count": 115,
   "events": [
     {
       "name": "Dutch Open 2026",
@@ -255,30 +255,30 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Pan American Para Taekwondo Poomsae Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc7-c30a-59d7-a1db-066b11207e5b/1",
+      "name": "(Poomsae) Pan American Taekwondo Championship 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11f13-a52b-8b88-94f3-02074336c3e7/1",
       "date": "05/07/2026",
-      "deadline": null,
-      "location": "RIO DE JANEIRO, BRAZIL",
-      "country": "RIO DE JANEIRO, BRAZIL",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Pan American Taekwondo Championship 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11efb-b5df-7077-94f3-02074336c3e7/1",
-      "date": "05/08/2026",
       "deadline": null,
       "location": "Rio de Janeiro, Brazil",
       "country": "Brazil",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Pan America Para Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc7-f5da-02f7-a1db-066b11207e5b/1",
-      "date": "05/10/2026",
+      "name": "Pan American Para Taekwondo Poomsae Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11f1e-c281-c340-94f3-02074336c3e7/1",
+      "date": "05/07/2026",
       "deadline": null,
-      "location": "RIO DE JANEIRO, BRAZIL",
-      "country": "RIO DE JANEIRO, BRAZIL",
+      "location": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) Pan American Taekwondo Championship 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11efb-b5df-7077-94f3-02074336c3e7/1",
+      "date": "05/08/2026",
+      "deadline": null,
+      "location": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -288,6 +288,15 @@
       "deadline": null,
       "location": "Zagreb, Croatia",
       "country": "Croatia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Pan America Para Taekwondo Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11f18-a396-efb9-94f3-02074336c3e7/1",
+      "date": "05/10/2026",
+      "deadline": null,
+      "location": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
