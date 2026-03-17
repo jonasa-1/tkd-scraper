@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-16T18:43:25.604083+00:00",
-  "count": 12,
+  "updated_at": "2026-03-17T06:46:27.264223+00:00",
+  "count": 114,
   "events": [
     {
       "name": "Belgian Open 2026",
@@ -108,6 +108,924 @@
       "deadline": null,
       "location": "Skopje, North Macedonia",
       "country": "North Macedonia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 WT Council Meeting (Tashkent, Uzbekistan)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f108ae-1e64-3072-9c46-066b11207e5b/1",
+      "date": "04/10/2026",
+      "deadline": null,
+      "location": "Wuxi, People's Republic Of China",
+      "country": "People's Republic Of China",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Poomsae) Dominican Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10c32-65fa-a8ac-9c46-066b11207e5b/1",
+      "date": "04/10/2026",
+      "deadline": null,
+      "location": "Santo Domingo, Dominican Republic",
+      "country": "Dominican Republic",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 WT General Assembly (Tashkent, Uzbekistan)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f108ae-7f70-64cf-9c46-066b11207e5b/1",
+      "date": "04/11/2026",
+      "deadline": null,
+      "location": "Chuncheon, Korea",
+      "country": "Chuncheon, Korea",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) 2026 Dominican Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10c2d-82bb-240e-9c46-066b11207e5b/1",
+      "date": "04/11/2026",
+      "deadline": null,
+      "location": "Santo Domingo, Dominican Republic",
+      "country": "Dominican Republic",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Tashkent 2026 World Taekwondo Junior Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f03f-afc0-a84e-bb1f-06d97f0218bf/1",
+      "date": "04/12/2026",
+      "deadline": null,
+      "location": "Tashkent, Uzbekistan",
+      "country": "Uzbekistan",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Spanish Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110b7-1edf-82ab-a059-063ab986362d/1",
+      "date": "04/17/2026",
+      "deadline": null,
+      "location": "Alicante, Spain",
+      "country": "Spain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Kyorugi) British Taekwondo International Open Manchester 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0ef8f-6393-87db-9f64-027be1645a55/1",
+      "date": "04/25/2026",
+      "deadline": null,
+      "location": "Manchester, Great Britain",
+      "country": "Great Britain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 Hereya Open E3",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f309-8332-b947-bb1f-06d97f0218bf/1",
+      "date": "04/25/2026",
+      "deadline": null,
+      "location": "Slivnitsa, Bulgaria",
+      "country": "Bulgaria",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "British Taekwondo International Open Manchester 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0ef88-2750-7486-9f64-027be1645a55/1",
+      "date": "04/25/2026",
+      "deadline": null,
+      "location": "Manchester, Great Britain",
+      "country": "Great Britain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Damascus Open Championship",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd44-f30e-2821-a1db-066b11207e5b/1",
+      "date": "04/24/2026",
+      "deadline": null,
+      "location": "DAMASCUS, SYRIAN ARAB REPUBLIC",
+      "country": "DAMASCUS, SYRIAN ARAB REPUBLIC",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "ADVANCED P30 CLASSIFICATION COURSE (ONSITE)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11655-9786-7b3f-80f0-02074336c3e7/1",
+      "date": "04/26/2026",
+      "deadline": null,
+      "location": "London, Great Britain",
+      "country": "Great Britain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "London Open Para Taekwondo Poomsae 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f103fd-69b5-62d8-bdf8-066b11207e5b/1",
+      "date": "05/02/2026",
+      "deadline": null,
+      "location": "London, Great Britain",
+      "country": "Great Britain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "London Open Poomsae 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10415-04a5-b935-bdf8-066b11207e5b/1",
+      "date": "05/02/2026",
+      "deadline": null,
+      "location": "London, Great Britain",
+      "country": "Great Britain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Poomsae) 2026 WT President's Cup - Europe",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10410-70c7-8e1d-bdf8-066b11207e5b/1",
+      "date": "05/03/2026",
+      "deadline": null,
+      "location": "London, Great Britain",
+      "country": "Great Britain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Poomsae) 2026 WT President's Cup - Europe",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10419-1f12-1c76-bdf8-066b11207e5b/1",
+      "date": "05/03/2026",
+      "deadline": null,
+      "location": "London, Great Britain",
+      "country": "Great Britain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Poomsae) Pan American Taekwondo Championship 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11f13-a52b-8b88-94f3-02074336c3e7/1",
+      "date": "05/07/2026",
+      "deadline": null,
+      "location": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Pan American Para Taekwondo Poomsae Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11f1e-c281-c340-94f3-02074336c3e7/1",
+      "date": "05/07/2026",
+      "deadline": null,
+      "location": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) Pan American Taekwondo Championship 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11efb-b5df-7077-94f3-02074336c3e7/1",
+      "date": "05/08/2026",
+      "deadline": null,
+      "location": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 CIGRA Open E2",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11bec-9532-c46c-94f3-02074336c3e7/1",
+      "date": "05/10/2026",
+      "deadline": null,
+      "location": "Zagreb, Croatia",
+      "country": "Croatia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Pan America Para Taekwondo Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11f18-a396-efb9-94f3-02074336c3e7/1",
+      "date": "05/10/2026",
+      "deadline": null,
+      "location": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "European Senior Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10e90-b46d-cbde-9c46-066b11207e5b/1",
+      "date": "05/11/2026",
+      "deadline": null,
+      "location": "Munich, Germany",
+      "country": "Germany",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "European Para Taekwondo Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10e91-9491-dd08-9c46-066b11207e5b/1",
+      "date": "05/11/2026",
+      "deadline": null,
+      "location": "Munich, Germany",
+      "country": "Germany",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 10th ASTERIKS Cup E3",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdd7-c775-8934-a1db-066b11207e5b/1",
+      "date": "05/16/2026",
+      "deadline": null,
+      "location": "Nis, Serbia",
+      "country": "Serbia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "9th Asian Taekwondo Poomsae Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd47-7c08-27f7-a1db-066b11207e5b/1",
+      "date": "05/19/2026",
+      "deadline": null,
+      "location": "ULAANBAATAR, MONGOLIA",
+      "country": "ULAANBAATAR, MONGOLIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Onsite) IR Refresher_159th Kyorugi (Istanbul, Turkiye)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11ef9-09c9-673e-94f3-02074336c3e7/1",
+      "date": "05/18/2026",
+      "deadline": null,
+      "location": "Istanbul, Türkiye",
+      "country": "Türkiye",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Youth) 2026 Lux Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10b27-aa4b-7d6f-9c46-066b11207e5b/1",
+      "date": "05/23/2026",
+      "deadline": null,
+      "location": "d’COQUE 2, Luxembourg",
+      "country": "Luxembourg",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "27th Asian Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd47-44b4-f368-a1db-066b11207e5b/1",
+      "date": "05/21/2026",
+      "deadline": null,
+      "location": "ULAANBAATAR, MONGOLIA",
+      "country": "ULAANBAATAR, MONGOLIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Seniors) Lux Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10b29-3108-7b51-9c46-066b11207e5b/1",
+      "date": "05/24/2026",
+      "deadline": null,
+      "location": "d’COQUE 2, Luxembourg",
+      "country": "Luxembourg",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "11th Asian Para Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc8-52fd-3e84-a1db-066b11207e5b/1",
+      "date": "05/25/2026",
+      "deadline": null,
+      "location": "ULAANBAATAR, MONGOLIA",
+      "country": "ULAANBAATAR, MONGOLIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Onsite) IR Seminar_(140th Kyorugi, Istanbul, Turkiye Invitation Based",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11e74-351f-2852-94f3-02074336c3e7/1",
+      "date": "05/22/2026",
+      "deadline": null,
+      "location": "Istanbul, Türkiye",
+      "country": "Türkiye",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Aichi Nagoya 2026 Asian Para Games Qualification Tournament",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc8-e48f-534e-a1db-066b11207e5b/1",
+      "date": "05/26/2026",
+      "deadline": null,
+      "location": "ULAANBAATAR, MONGOLIA",
+      "country": "ULAANBAATAR, MONGOLIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 ETU Grand Prix Open Ramus E6",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11e71-e2b9-7a5a-94f3-02074336c3e7/1",
+      "date": "05/30/2026",
+      "deadline": null,
+      "location": "Sofia, Bulgaria",
+      "country": "Bulgaria",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup Para Taekwondo Europe 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-2446-d1ac-a1db-066b11207e5b/1",
+      "date": "06/04/2026",
+      "deadline": null,
+      "location": "NUREMBERG, GERMANY",
+      "country": "NUREMBERG, GERMANY",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "ROMA 2026 World Para Taekwondo Grand-Prix",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11a5a-4819-b91d-94f3-02074336c3e7/1",
+      "date": "06/04/2026",
+      "deadline": null,
+      "location": "Rome, Italy",
+      "country": "Italy",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup - Europe",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-33c7-30e7-a1db-066b11207e5b/1",
+      "date": "06/04/2026",
+      "deadline": null,
+      "location": "NUREMBERG, GERMANY",
+      "country": "NUREMBERG, GERMANY",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Roma 2026 World Taekwondo Grand Prix Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1154e-2d8f-3c05-80f0-02074336c3e7/1",
+      "date": "06/05/2026",
+      "deadline": null,
+      "location": "Rome, Italy",
+      "country": "Italy",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup - Pan Am",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-6d7b-38b3-a1db-066b11207e5b/1",
+      "date": "06/12/2026",
+      "deadline": null,
+      "location": "QUERETARO, MEXICO",
+      "country": "QUERETARO, MEXICO",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup - Oceania",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-a581-6a85-a1db-066b11207e5b/1",
+      "date": "06/18/2026",
+      "deadline": null,
+      "location": "GOLD COAST, AUSTRALIA",
+      "country": "GOLD COAST, AUSTRALIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "European Clubs Championship",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-e381-74f1-a1db-066b11207e5b/1",
+      "date": "06/18/2026",
+      "deadline": null,
+      "location": "SAJAREVO, BOSNIA & HERZEGOVINA",
+      "country": "SAJAREVO, BOSNIA & HERZEGOVINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Austrian Open Poomsae",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-0fd3-bdd2-a1db-066b11207e5b/1",
+      "date": "06/20/2026",
+      "deadline": null,
+      "location": "VIENNA, AUSTRIA",
+      "country": "VIENNA, AUSTRIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 Australian Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-39f9-1350-a1db-066b11207e5b/1",
+      "date": "06/20/2026",
+      "deadline": null,
+      "location": "GOLD COAST, AUSTRALIA",
+      "country": "GOLD COAST, AUSTRALIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Bosnia Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-6289-c05c-a1db-066b11207e5b/1",
+      "date": "06/21/2026",
+      "deadline": null,
+      "location": "SAJAREVO, BOSNIA & HERZEGOVINA",
+      "country": "SAJAREVO, BOSNIA & HERZEGOVINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Altaic Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-9c42-ab27-a1db-066b11207e5b/1",
+      "date": "06/22/2026",
+      "deadline": null,
+      "location": "ASTANA, KAZAKHSTAN",
+      "country": "ASTANA, KAZAKHSTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Kazakhstan Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-c3ff-b361-a1db-066b11207e5b/1",
+      "date": "06/25/2026",
+      "deadline": null,
+      "location": "ASTANA, KAZAKHSTAN",
+      "country": "ASTANA, KAZAKHSTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Solidarity Center Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-f315-88cc-a1db-066b11207e5b/1",
+      "date": "07/04/2026",
+      "deadline": null,
+      "location": "MONTARGIS, FRANCE",
+      "country": "MONTARGIS, FRANCE",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Daegu 2026 World University Taekwondo Festival",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4a-2ba1-3e37-a1db-066b11207e5b/1",
+      "date": "07/04/2026",
+      "deadline": null,
+      "location": "DAEGU, REPUBLIC OF KOREA",
+      "country": "DAEGU, REPUBLIC OF KOREA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 WT Para Taekwondo Traning Camp",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-721c-5a83-a1db-066b11207e5b/1",
+      "date": "06/30/2026",
+      "deadline": null,
+      "location": "MUJU, REPUBLIC OF KOREA",
+      "country": "MUJU, REPUBLIC OF KOREA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Gangwon Chuncheon 2026 World Para Taekwondo Open Challenge",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f316-fb3e-4f33-bb1f-06d97f0218bf/1",
+      "date": "07/08/2026",
+      "deadline": null,
+      "location": "Chuncheon City, Republic of Korea",
+      "country": "Republic of Korea",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Gangwon Chuncheon 2026 World Para Taekwondo Open Challenge",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-f708-85f8-a1db-066b11207e5b/1",
+      "date": "07/08/2026",
+      "deadline": null,
+      "location": "CHUNCHEON, REPUBLIC OF KOREA",
+      "country": "CHUNCHEON, REPUBLIC OF KOREA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Virtus European Regional Games",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-c355-a8b8-a1db-066b11207e5b/1",
+      "date": "07/03/2026",
+      "deadline": null,
+      "location": "BYDOSZCZ, POLAND",
+      "country": "BYDOSZCZ, POLAND",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Gangwon-Chuncheon 2026 World Taekwondo Demonstration & Breaking Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4a-6849-80dc-a1db-066b11207e5b/1",
+      "date": "07/13/2026",
+      "deadline": null,
+      "location": "CHUNCHEON, REPUBLIC OF KOREA",
+      "country": "CHUNCHEON, REPUBLIC OF KOREA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Chuncheon 2026 World Taekwondo World Cup Team Championships Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4a-9733-162b-a1db-066b11207e5b/1",
+      "date": "07/14/2026",
+      "deadline": null,
+      "location": "CHUNCHEON, REPUBLIC OF KOREA",
+      "country": "CHUNCHEON, REPUBLIC OF KOREA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) 2026 Chuncheon Korea Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f52c-4f24-99c5-abeb-02e00a1b3d49/1",
+      "date": "07/20/2026",
+      "deadline": null,
+      "location": "Chuncheon, Republic of Korea",
+      "country": "Republic of Korea",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Poomsae) 2026 Chuncheon Korea Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f52f-ee4e-1d77-abeb-02e00a1b3d49/1",
+      "date": "07/22/2026",
+      "deadline": null,
+      "location": "Chuncheon, Republic of Korea",
+      "country": "Republic of Korea",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Portugal Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11cb4-16a5-2a92-94f3-02074336c3e7/1",
+      "date": "07/25/2026",
+      "deadline": null,
+      "location": "Porto, Portugal",
+      "country": "Portugal",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Colombia Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4b-dfb6-aa64-a1db-066b11207e5b/1",
+      "date": "08/05/2026",
+      "deadline": null,
+      "location": "SUCRE, COLOMBIA",
+      "country": "SUCRE, COLOMBIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 China Open International Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4c-1885-3439-a1db-066b11207e5b/1",
+      "date": "08/18/2026",
+      "deadline": null,
+      "location": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
+      "country": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "34th Fajr Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4c-93ec-8b06-a1db-066b11207e5b/1",
+      "date": "08/24/2026",
+      "deadline": null,
+      "location": "TEHRAN, ISLAMIC REPUBLIC OF IRAN",
+      "country": "TEHRAN, ISLAMIC REPUBLIC OF IRAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Taiyuan 2026 World Taekwondo Women's Open Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4e-1342-b326-a1db-066b11207e5b/1",
+      "date": "08/28/2026",
+      "deadline": null,
+      "location": "TAIYUAN, PEOPLE'S REPUBLIC OF CHINA",
+      "country": "TAIYUAN, PEOPLE'S REPUBLIC OF CHINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Riga Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4e-4a8e-bca0-a1db-066b11207e5b/1",
+      "date": "08/29/2026",
+      "deadline": null,
+      "location": "RIGA, LATVIA",
+      "country": "RIGA, LATVIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2nd World Para Taekwondo Poomsae Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdca-2e51-0d06-a1db-066b11207e5b/1",
+      "date": "09/01/2026",
+      "deadline": null,
+      "location": "TBC",
+      "country": "TBC",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 Mediterranean Games",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4c-4a29-07b4-a1db-066b11207e5b/1",
+      "date": "08/21/2026",
+      "deadline": null,
+      "location": "TARANTO, ITALY",
+      "country": "TARANTO, ITALY",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Youth) 2026 Swiss Open E2",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11667-68d1-373f-80f0-02074336c3e7/1",
+      "date": "09/04/2026",
+      "deadline": null,
+      "location": "St. Gallen, Switzerland",
+      "country": "Switzerland",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Nations Cup Peru 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4d-44a6-17c8-a1db-066b11207e5b/1",
+      "date": "09/03/2026",
+      "deadline": null,
+      "location": "LIMA, PERU",
+      "country": "LIMA, PERU",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Seniors) Swiss Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11669-cb44-165a-80f0-02074336c3e7/1",
+      "date": "09/06/2026",
+      "deadline": null,
+      "location": "St. Gallen, Switzerland",
+      "country": "Switzerland",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Swiss Open Para Taekwondo 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11cba-cab1-7bd4-94f3-02074336c3e7/1",
+      "date": "09/06/2026",
+      "deadline": null,
+      "location": "St. Gallen, Switzerland",
+      "country": "Switzerland",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Muju Taekwondowon 2026 World Taekwondo Grand Prix Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4d-b419-6e6e-a1db-066b11207e5b/1",
+      "date": "09/04/2026",
+      "deadline": null,
+      "location": "MUJU, REPUBLIC OF KOREA",
+      "country": "MUJU, REPUBLIC OF KOREA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Muju Taekwondowon 2026 World Para Taekwondo Grand Prix Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdca-5e30-9a7e-a1db-066b11207e5b/1",
+      "date": "09/04/2026",
+      "deadline": null,
+      "location": "MUJU, REPUBLIC OF KOREA",
+      "country": "MUJU, REPUBLIC OF KOREA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Multi European Games 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4e-bd0c-1f29-a1db-066b11207e5b/1",
+      "date": "09/11/2026",
+      "deadline": null,
+      "location": "NIŠ, SERBIA",
+      "country": "NIŠ, SERBIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Chuncheon 2026 World Taekwondo Poomsae Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4f-18ec-0543-a1db-066b11207e5b/1",
+      "date": "09/16/2026",
+      "deadline": null,
+      "location": "CHUNCHEON, REPUBLIC OF KOREA",
+      "country": "CHUNCHEON, REPUBLIC OF KOREA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "German Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4f-448e-10ae-a1db-066b11207e5b/1",
+      "date": "09/19/2026",
+      "deadline": null,
+      "location": "HAMBURG, GERMANY",
+      "country": "HAMBURG, GERMANY",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Rio Open Para Taekwondo Poomsae",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdca-be97-dce6-a1db-066b11207e5b/1",
+      "date": "09/24/2026",
+      "deadline": null,
+      "location": "RIO DE JANEIRO, BRAZIL",
+      "country": "RIO DE JANEIRO, BRAZIL",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Rio Open Para Taekwondo Kyorugi",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdca-fa2e-8862-a1db-066b11207e5b/1",
+      "date": "09/24/2026",
+      "deadline": null,
+      "location": "RIO DE JANEIRO, BRAZIL",
+      "country": "RIO DE JANEIRO, BRAZIL",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 South American Games",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4e-e740-90d4-a1db-066b11207e5b/1",
+      "date": "09/12/2026",
+      "deadline": null,
+      "location": "SANTA FE PROVINCE, ARGENTINA",
+      "country": "SANTA FE PROVINCE, ARGENTINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Rio Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4f-69fa-7304-a1db-066b11207e5b/1",
+      "date": "09/24/2026",
+      "deadline": null,
+      "location": "RIO DE JANEIRO, BRAZIL",
+      "country": "RIO DE JANEIRO, BRAZIL",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Polish Open Warsaw Cup 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4f-96d9-b862-a1db-066b11207e5b/1",
+      "date": "09/26/2026",
+      "deadline": null,
+      "location": "WARSAW, POLAND",
+      "country": "WARSAW, POLAND",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "20th Asian Games Aichi-Nagoya 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4f-c8c5-9132-a1db-066b11207e5b/1",
+      "date": "10/01/2026",
+      "deadline": null,
+      "location": "AICHI, JAPAN",
+      "country": "AICHI, JAPAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "11th Croatia Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-1017-2add-a1db-066b11207e5b/1",
+      "date": "10/03/2026",
+      "deadline": null,
+      "location": "ZAGREB, CROATIA",
+      "country": "ZAGREB, CROATIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Albania Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4f-ed62-205e-a1db-066b11207e5b/1",
+      "date": "10/02/2026",
+      "deadline": null,
+      "location": "TIRANA, ALBANIA",
+      "country": "TIRANA, ALBANIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Paris 2026 World Taekwondo Grand Prix Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-34b7-fffc-a1db-066b11207e5b/1",
+      "date": "10/08/2026",
+      "deadline": null,
+      "location": "PARIS, FRANCE",
+      "country": "PARIS, FRANCE",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Montenegro Podgorica Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-5ef3-4e92-a1db-066b11207e5b/1",
+      "date": "10/10/2026",
+      "deadline": null,
+      "location": "PODGORICA, MONTENEGRO",
+      "country": "PODGORICA, MONTENEGRO",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Virtus Americas Regional Games",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcb-38ed-27fd-a1db-066b11207e5b/1",
+      "date": "10/02/2026",
+      "deadline": null,
+      "location": "LIMA, PERU",
+      "country": "LIMA, PERU",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Paris 2026 World Para Taekwondo Grand Prix Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcb-723f-d6ed-a1db-066b11207e5b/1",
+      "date": "10/08/2026",
+      "deadline": null,
+      "location": "PARIS, FRANCE",
+      "country": "PARIS, FRANCE",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 ETU Grand Prix Open Qualification Tournament Vrsac E6",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110a7-c880-4c2a-a059-063ab986362d/1",
+      "date": "10/17/2026",
+      "deadline": null,
+      "location": "Vrsac, Serbia",
+      "country": "Serbia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "6th Qatar Open Championship 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-875b-8bbe-a1db-066b11207e5b/1",
+      "date": "10/17/2026",
+      "deadline": null,
+      "location": "DOHA, QATAR",
+      "country": "DOHA, QATAR",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Dracula Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-adaa-5ec8-a1db-066b11207e5b/1",
+      "date": "10/23/2026",
+      "deadline": null,
+      "location": "BUCHAREST, ROMANIA",
+      "country": "BUCHAREST, ROMANIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "23rd Galeb Belgrade Trophy-Serbia Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-d2bd-0853-a1db-066b11207e5b/1",
+      "date": "11/01/2026",
+      "deadline": null,
+      "location": "BELGRADE, SERBIA",
+      "country": "BELGRADE, SERBIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "11th World Para Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcb-f687-d1f2-a1db-066b11207e5b/1",
+      "date": "11/01/2026",
+      "deadline": null,
+      "location": "TBC",
+      "country": "TBC",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Poomsae) WT President's Cup - Asia",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-fdd3-9c9e-a1db-066b11207e5b/1",
+      "date": "11/02/2026",
+      "deadline": null,
+      "location": "ISLAMABAD, PAKISTAN",
+      "country": "ISLAMABAD, PAKISTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup Para Taekwondo Asia Region",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcc-24c6-332c-a1db-066b11207e5b/1",
+      "date": "11/03/2026",
+      "deadline": null,
+      "location": "ISLAMABAD, PAKISTAN",
+      "country": "ISLAMABAD, PAKISTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup - Asia",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-2f03-ec98-a1db-066b11207e5b/1",
+      "date": "11/05/2026",
+      "deadline": null,
+      "location": "ISLAMABAD, PAKISTAN",
+      "country": "ISLAMABAD, PAKISTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Greece Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-4f96-1713-a1db-066b11207e5b/1",
+      "date": "11/06/2026",
+      "deadline": null,
+      "location": "THESALONIKI, GREECE",
+      "country": "THESALONIKI, GREECE",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Dakar 2026 Youth Olympic Games",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-72eb-592d-a1db-066b11207e5b/1",
+      "date": "11/08/2026",
+      "deadline": null,
+      "location": "DAKAR, SENEGAL",
+      "country": "DAKAR, SENEGAL",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "30th Zagreb Croatia Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-96ca-d9e7-a1db-066b11207e5b/1",
+      "date": "11/14/2026",
+      "deadline": null,
+      "location": "ZAGREB, CROATIA",
+      "country": "ZAGREB, CROATIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "5th Palestine Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-bd94-3422-a1db-066b11207e5b/1",
+      "date": "11/27/2026",
+      "deadline": null,
+      "location": "JERICHO, PALESTINE",
+      "country": "JERICHO, PALESTINE",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Astana 2026 World Taekwondo Grand Prix Final",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-ea64-383f-a1db-066b11207e5b/1",
+      "date": "11/27/2026",
+      "deadline": null,
+      "location": "ASTANA, KAZAKHSTAN",
+      "country": "ASTANA, KAZAKHSTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Astana 2026 World Para Taekwondo Grand Prix Final",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcc-779f-760c-a1db-066b11207e5b/1",
+      "date": "11/27/2026",
+      "deadline": null,
+      "location": "ASTANA, KAZAKHSTAN",
+      "country": "ASTANA, KAZAKHSTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Virtus Asia Oceania Games",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcc-4e43-14e1-a1db-066b11207e5b/1",
+      "date": "11/20/2026",
+      "deadline": null,
+      "location": "BANGKOK, THAILAND",
+      "country": "BANGKOK, THAILAND",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 ETU Grand Prix Open Final E10",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110a8-4f67-aaae-a059-063ab986362d/1",
+      "date": "12/05/2026",
+      "deadline": null,
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Wuxi 2026 World Taekwondo Grand Slam Challenge",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-1986-b6d9-a1db-066b11207e5b/1",
+      "date": "12/09/2026",
+      "deadline": null,
+      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
+      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Wuxi 2026 World Taekwondo Grand Slam Champions Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-4be2-dda6-a1db-066b11207e5b/1",
+      "date": "12/12/2026",
+      "deadline": null,
+      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
+      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Wuxi 2026 World Taekwondo World Cup Team Championships Final",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-6eeb-8662-a1db-066b11207e5b/1",
+      "date": "12/15/2026",
+      "deadline": null,
+      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
+      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
       "source": "World Taekwondo (SimplyCompete)"
     }
   ]
