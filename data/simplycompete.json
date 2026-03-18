@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T18:42:34.660416+00:00",
+  "updated_at": "2026-03-18T06:45:51.003014+00:00",
   "count": 114,
   "events": [
     {
@@ -318,12 +318,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "9th Asian Taekwondo Poomsae Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd47-7c08-27f7-a1db-066b11207e5b/1",
+      "name": "9th Asian Taekwondo Poomsae Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12263-8bc5-0e65-94f3-02074336c3e7/1",
       "date": "05/19/2026",
       "deadline": null,
-      "location": "ULAANBAATAR, MONGOLIA",
-      "country": "ULAANBAATAR, MONGOLIA",
+      "location": "Ulaanbaatar, Mongolia",
+      "country": "Mongolia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -345,15 +345,6 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "27th Asian Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd47-44b4-f368-a1db-066b11207e5b/1",
-      "date": "05/21/2026",
-      "deadline": null,
-      "location": "ULAANBAATAR, MONGOLIA",
-      "country": "ULAANBAATAR, MONGOLIA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "(Seniors) Lux Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f10b29-3108-7b51-9c46-066b11207e5b/1",
       "date": "05/24/2026",
@@ -363,12 +354,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "11th Asian Para Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc8-52fd-3e84-a1db-066b11207e5b/1",
-      "date": "05/25/2026",
+      "name": "27th Asian Taekwondo Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12260-fcd3-cdc2-94f3-02074336c3e7/1",
+      "date": "05/21/2026",
       "deadline": null,
-      "location": "ULAANBAATAR, MONGOLIA",
-      "country": "ULAANBAATAR, MONGOLIA",
+      "location": "Ulaanbaatar, Mongolia",
+      "country": "Mongolia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -378,6 +369,15 @@
       "deadline": null,
       "location": "Istanbul, Türkiye",
       "country": "Türkiye",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "11th Asian Para Taekwondo Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12262-0185-79dc-94f3-02074336c3e7/1",
+      "date": "05/25/2026",
+      "deadline": null,
+      "location": "Ulaanbaatar, Mongolia",
+      "country": "Mongolia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
