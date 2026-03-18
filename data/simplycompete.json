@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-18T06:45:51.003014+00:00",
-  "count": 114,
+  "updated_at": "2026-03-18T18:43:15.634383+00:00",
+  "count": 115,
   "events": [
     {
       "name": "Belgian Open 2026",
@@ -81,6 +81,15 @@
       "deadline": null,
       "location": "RABAT, MOROCCO",
       "country": "RABAT, MOROCCO",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "بطولة المملكة على كأس الأبطال لدرجة البراعم والناشئين مجموعة (A)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f112b1-d9c6-511f-80f0-02074336c3e7/1",
+      "date": "04/02/2026",
+      "deadline": null,
+      "location": "بريدة, Saudi Arabia",
+      "country": "Saudi Arabia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
