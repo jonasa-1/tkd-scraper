@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T06:37:51.075834+00:00",
+  "updated_at": "2026-03-20T18:29:26.906136+00:00",
   "count": 114,
   "events": [
     {
@@ -462,21 +462,21 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Austrian Open Poomsae",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-0fd3-bdd2-a1db-066b11207e5b/1",
-      "date": "06/20/2026",
-      "deadline": null,
-      "location": "VIENNA, AUSTRIA",
-      "country": "VIENNA, AUSTRIA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "2026 Australian Open",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-39f9-1350-a1db-066b11207e5b/1",
       "date": "06/20/2026",
       "deadline": null,
       "location": "GOLD COAST, AUSTRALIA",
       "country": "GOLD COAST, AUSTRALIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Austrian Open Poomsae 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12456-6d05-cd08-9a07-064ca76c3471/1",
+      "date": "06/20/2026",
+      "deadline": null,
+      "location": "Vienna, Austria",
+      "country": "Austria",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
