@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T18:45:29.520305+00:00",
+  "updated_at": "2026-03-27T06:53:05.765702+00:00",
   "count": 110,
   "events": [
     {
@@ -399,15 +399,6 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "WT President's Cup - Pan Am",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-6d7b-38b3-a1db-066b11207e5b/1",
-      "date": "06/12/2026",
-      "deadline": null,
-      "location": "QUERETARO, MEXICO",
-      "country": "QUERETARO, MEXICO",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "WT President's Cup - Oceania",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-a581-6a85-a1db-066b11207e5b/1",
       "date": "06/18/2026",
@@ -594,6 +585,15 @@
       "deadline": null,
       "location": "TEHRAN, ISLAMIC REPUBLIC OF IRAN",
       "country": "TEHRAN, ISLAMIC REPUBLIC OF IRAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup - Pan Am",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-6d7b-38b3-a1db-066b11207e5b/1",
+      "date": "08/26/2026",
+      "deadline": null,
+      "location": "Lima, Peru",
+      "country": "Lima, Peru",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
