@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-03-28T18:21:21.377695+00:00",
-  "count": 110,
+  "updated_at": "2026-03-29T06:49:05.952282+00:00",
+  "count": 108,
   "events": [
-    {
-      "name": "2026 Oceania Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f882-087e-09c3-abeb-02e00a1b3d49/1",
-      "date": "03/28/2026",
-      "deadline": null,
-      "location": "Sydney, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Team) 2026 Oceania Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f883-d0ad-a324-abeb-02e00a1b3d49/1",
-      "date": "03/28/2026",
-      "deadline": null,
-      "location": "Sydney, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "(Kyorugi) Turkiye Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f92a-6201-725f-a1db-066b11207e5b/1",
