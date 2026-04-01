@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-01T07:05:33.621060+00:00",
-  "count": 106,
+  "updated_at": "2026-04-01T18:41:10.316733+00:00",
+  "count": 109,
   "events": [
     {
       "name": "2026 African Para Taekwondo Championships",
@@ -120,21 +120,21 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Damascus Open Championship",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd44-f30e-2821-a1db-066b11207e5b/1",
-      "date": "04/24/2026",
-      "deadline": null,
-      "location": "DAMASCUS, SYRIAN ARAB REPUBLIC",
-      "country": "DAMASCUS, SYRIAN ARAB REPUBLIC",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "ADVANCED P30 CLASSIFICATION COURSE (ONSITE)",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f11655-9786-7b3f-80f0-02074336c3e7/1",
       "date": "04/26/2026",
       "deadline": null,
       "location": "London, Great Britain",
       "country": "Great Britain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Onsite) IR Refresher_158th Kyorugi (Charlotte, NC, USA)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12dca-5e40-455a-9a07-064ca76c3471/1",
+      "date": "04/27/2026",
+      "deadline": null,
+      "location": "Charlotte, United States of America",
+      "country": "United States of America",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -171,6 +171,15 @@
       "deadline": null,
       "location": "London, Great Britain",
       "country": "Great Britain",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Onsite) IR Refresher_64th Poomsae (Charlotte, NC, USA)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12dc8-36b7-087c-9a07-064ca76c3471/1",
+      "date": "05/01/2026",
+      "deadline": null,
+      "location": "Charlotte, United States of America",
+      "country": "United States of America",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -318,6 +327,24 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "WT Technical Delegate Refresher Course 2026 – Kyorugi",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12dd0-fb76-0822-9a07-064ca76c3471/1",
+      "date": "05/26/2026",
+      "deadline": null,
+      "location": "Istanbul, Türkiye",
+      "country": "Türkiye",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT Technical Delegate Certification Course 2026 – Kyorugi",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12dd1-3ff4-ab9f-9a07-064ca76c3471/1",
+      "date": "05/26/2026",
+      "deadline": null,
+      "location": "Istanbul, Türkiye",
+      "country": "Türkiye",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "2026 ETU Grand Prix Open Ramus E6",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f11e71-e2b9-7a5a-94f3-02074336c3e7/1",
       "date": "05/30/2026",
@@ -426,12 +453,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Solidarity Center Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-f315-88cc-a1db-066b11207e5b/1",
+      "name": "Solidarity Center Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12dd9-ef8a-f327-9a07-064ca76c3471/1",
       "date": "07/04/2026",
       "deadline": null,
-      "location": "MONTARGIS, FRANCE",
-      "country": "MONTARGIS, FRANCE",
+      "location": "Montargis, France",
+      "country": "France",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -459,15 +486,6 @@
       "deadline": null,
       "location": "Chuncheon City, Republic of Korea",
       "country": "Republic of Korea",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Gangwon Chuncheon 2026 World Para Taekwondo Open Challenge",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-f708-85f8-a1db-066b11207e5b/1",
-      "date": "07/08/2026",
-      "deadline": null,
-      "location": "CHUNCHEON, REPUBLIC OF KOREA",
-      "country": "CHUNCHEON, REPUBLIC OF KOREA",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -693,6 +711,15 @@
       "deadline": null,
       "location": "RIO DE JANEIRO, BRAZIL",
       "country": "RIO DE JANEIRO, BRAZIL",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Damascus Open Championship",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd44-f30e-2821-a1db-066b11207e5b/1",
+      "date": "09/24/2026",
+      "deadline": null,
+      "location": "DAMASCUS, SYRIAN ARAB REPUBLIC",
+      "country": "DAMASCUS, SYRIAN ARAB REPUBLIC",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
