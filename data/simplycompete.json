@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-03T06:53:43.757417+00:00",
-  "count": 109,
+  "updated_at": "2026-04-03T18:28:34.299164+00:00",
+  "count": 110,
   "events": [
     {
       "name": "2026 African Para Taekwondo Championships",
@@ -365,6 +365,15 @@
     {
       "name": "ROMA 2026 World Para Taekwondo Grand-Prix",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f11a5a-4819-b91d-94f3-02074336c3e7/1",
+      "date": "06/04/2026",
+      "deadline": null,
+      "location": "Rome, Italy",
+      "country": "Italy",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Virtual Taekwondo Roma Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12f50-06f2-a410-8f21-064ca76c3471/1",
       "date": "06/04/2026",
       "deadline": null,
       "location": "Rome, Italy",
