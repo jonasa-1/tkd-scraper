@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T06:42:57.722058+00:00",
+  "updated_at": "2026-04-04T18:22:41.793134+00:00",
   "count": 109,
   "events": [
     {
@@ -345,15 +345,6 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "WT President's Cup Para Taekwondo Europe 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-2446-d1ac-a1db-066b11207e5b/1",
-      "date": "06/04/2026",
-      "deadline": null,
-      "location": "NUREMBERG, GERMANY",
-      "country": "NUREMBERG, GERMANY",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "ROMA 2026 World Para Taekwondo Grand-Prix",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f11a5a-4819-b91d-94f3-02074336c3e7/1",
       "date": "06/04/2026",
@@ -372,21 +363,30 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "WT President's Cup - Europe",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-33c7-30e7-a1db-066b11207e5b/1",
-      "date": "06/04/2026",
-      "deadline": null,
-      "location": "NUREMBERG, GERMANY",
-      "country": "NUREMBERG, GERMANY",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "Roma 2026 World Taekwondo Grand Prix Series",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f1154e-2d8f-3c05-80f0-02074336c3e7/1",
       "date": "06/05/2026",
       "deadline": null,
       "location": "Rome, Italy",
       "country": "Italy",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup Para Taekwondo Europe 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12ffe-c5c9-5259-8f21-064ca76c3471/1",
+      "date": "06/07/2026",
+      "deadline": null,
+      "location": "Nuremberg, Germany",
+      "country": "Germany",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup - Europe 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13000-8367-b0a8-8f21-064ca76c3471/1",
+      "date": "06/04/2026",
+      "deadline": null,
+      "location": "Nuremberg, Germany",
+      "country": "Germany",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
