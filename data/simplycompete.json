@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-06T07:13:45.189707+00:00",
-  "count": 106,
+  "updated_at": "2026-04-06T18:38:20.022363+00:00",
+  "count": 110,
   "events": [
     {
       "name": "2026 WT Council Meeting (Tashkent, Uzbekistan)",
@@ -315,6 +315,42 @@
       "deadline": null,
       "location": "Sofia, Bulgaria",
       "country": "Bulgaria",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) 2026 African Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f131c2-12e1-2f56-8f21-064ca76c3471/1",
+      "date": "05/30/2026",
+      "deadline": null,
+      "location": "Bamako, Mali",
+      "country": "Mali",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Kyorugi) 2026 African Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f131cd-5337-84d9-8f21-064ca76c3471/1",
+      "date": "06/01/2026",
+      "deadline": null,
+      "location": "Bamako, Mali",
+      "country": "Mali",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Poomsae) 2026 African Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f131ca-e86a-e3f4-8f21-064ca76c3471/1",
+      "date": "06/02/2026",
+      "deadline": null,
+      "location": "Bamako, Mali",
+      "country": "Mali",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Poomsae) 2026 African Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f131cf-5f7a-55fa-8f21-064ca76c3471/1",
+      "date": "06/02/2026",
+      "deadline": null,
+      "location": "Bamako, Mali",
+      "country": "Mali",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
