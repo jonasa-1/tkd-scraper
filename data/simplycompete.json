@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T18:41:49.984350+00:00",
+  "updated_at": "2026-04-08T07:02:44.689234+00:00",
   "count": 110,
   "events": [
     {
@@ -291,8 +291,8 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "TD Refresher Course 2026 Istanbul",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12dd0-fb76-0822-9a07-064ca76c3471/1",
+      "name": "TD Certification Course 2026 Istanbul",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12dd1-3ff4-ab9f-9a07-064ca76c3471/1",
       "date": "05/26/2026",
       "deadline": null,
       "location": "Istanbul, Türkiye",
@@ -300,8 +300,8 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "TD Certification Course 2026 Istanbul",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12dd1-3ff4-ab9f-9a07-064ca76c3471/1",
+      "name": "TD Refresher Course 2026 Istanbul",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13314-6d3e-a3b4-8f21-064ca76c3471/1",
       "date": "05/26/2026",
       "deadline": null,
       "location": "Istanbul, Türkiye",
