@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T07:15:09.901136+00:00",
-  "count": 12,
+  "updated_at": "2026-04-17T18:38:26.988512+00:00",
+  "count": 13,
   "events": [
     {
       "name": "UTA NORTHERN IRELAND 121",
@@ -16,6 +16,15 @@
       "url": "https://www.ma-regonline.com/tournaments/1625/APEX-CHAMPIONSHIPS",
       "date": "2026-05-10",
       "deadline": "2026-04-30",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "Coupe de Nouvelle Caledonie combat",
+      "url": "https://www.ma-regonline.com/tournaments/1674/Coupe-de-Nouvelle-Caledonie-combat",
+      "date": "2026-05-23",
+      "deadline": "2026-05-17",
       "location": "",
       "country": "",
       "source": "MA-RegOnline"
