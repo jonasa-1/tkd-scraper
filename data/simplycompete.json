@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-04-16T18:53:30.145163+00:00",
+  "updated_at": "2026-04-17T07:15:07.305539+00:00",
   "count": 106,
   "events": [
-    {
-      "name": "Tashkent 2026 World Taekwondo Junior Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f03f-afc0-a84e-bb1f-06d97f0218bf/1",
-      "date": "04/12/2026",
-      "deadline": null,
-      "location": "Tashkent, Uzbekistan",
-      "country": "Uzbekistan",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "Spanish Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f110b7-1edf-82ab-a059-063ab986362d/1",
@@ -423,6 +414,15 @@
       "deadline": null,
       "location": "ASTANA, KAZAKHSTAN",
       "country": "ASTANA, KAZAKHSTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Balkan Cup 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f139d3-b406-72da-ba73-06c6272711b1/1",
+      "date": "06/27/2026",
+      "deadline": null,
+      "location": "Zrenjanin, Serbia",
+      "country": "Serbia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
