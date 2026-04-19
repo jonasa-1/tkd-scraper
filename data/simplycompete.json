@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T07:03:11.711766+00:00",
-  "count": 105,
+  "updated_at": "2026-04-19T18:29:35.042360+00:00",
+  "count": 110,
   "events": [
     {
       "name": "CANCELLED (Para Kyorugi) British Taekwondo International Open Manchester 2026",
@@ -345,12 +345,39 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "WT President's Cup - Oceania",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-a581-6a85-a1db-066b11207e5b/1",
+      "name": "(Kyorugi) WT President's Cup - Oceania 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c00-252c-41fd-ba73-06c6272711b1/1",
       "date": "06/18/2026",
       "deadline": null,
-      "location": "GOLD COAST, AUSTRALIA",
-      "country": "GOLD COAST, AUSTRALIA",
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Kyorugi) WT President's Cup - Oceania 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c00-d694-8514-ba73-06c6272711b1/1",
+      "date": "06/18/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Poomsae) WT President's Cup - Oceania 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c02-13b6-9606-ba73-06c6272711b1/1",
+      "date": "06/18/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Poomsae) WT President's Cup - Oceania 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c02-d50f-0b9b-ba73-06c6272711b1/1",
+      "date": "06/18/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -363,21 +390,48 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "2026 Australian Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-39f9-1350-a1db-066b11207e5b/1",
-      "date": "06/20/2026",
-      "deadline": null,
-      "location": "GOLD COAST, AUSTRALIA",
-      "country": "GOLD COAST, AUSTRALIA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "Austrian Open Poomsae 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f12456-6d05-cd08-9a07-064ca76c3471/1",
       "date": "06/20/2026",
       "deadline": null,
       "location": "Vienna, Austria",
       "country": "Austria",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) Australian Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c03-def7-1864-ba73-06c6272711b1/1",
+      "date": "06/20/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Kyorugi) Australian Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c04-4d6f-e307-ba73-06c6272711b1/1",
+      "date": "06/20/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Poomsae) Australian Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c06-0228-e22f-ba73-06c6272711b1/1",
+      "date": "06/20/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Poomsae) Australian Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c06-8e95-faf3-ba73-06c6272711b1/1",
+      "date": "06/20/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -873,15 +927,6 @@
       "deadline": null,
       "location": "ZAGREB, CROATIA",
       "country": "ZAGREB, CROATIA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "5th Palestine Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-bd94-3422-a1db-066b11207e5b/1",
-      "date": "11/27/2026",
-      "deadline": null,
-      "location": "JERICHO, PALESTINE",
-      "country": "JERICHO, PALESTINE",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
