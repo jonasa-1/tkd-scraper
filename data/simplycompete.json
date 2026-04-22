@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-22T07:16:08.620967+00:00",
-  "count": 110,
+  "updated_at": "2026-04-22T18:53:14.167442+00:00",
+  "count": 114,
   "events": [
     {
       "name": "CANCELLED (Para Kyorugi) British Taekwondo International Open Manchester 2026",
@@ -444,6 +444,24 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Poomsae) 2026 Oceania Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-7ccf-6216-98ed-06dacf8379b9/1",
+      "date": "06/22/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Poomsae) 2026 Oceania Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-f017-1a91-98ed-06dacf8379b9/1",
+      "date": "06/22/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "Altaic Taekwondo Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-9c42-ab27-a1db-066b11207e5b/1",
       "date": "06/22/2026",
@@ -558,6 +576,15 @@
       "deadline": null,
       "location": "Porto, Portugal",
       "country": "Portugal",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "The 2nd CJ Vietnam Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e38-6901-0057-98ed-06dacf8379b9/1",
+      "date": "08/01/2026",
+      "deadline": null,
+      "location": "Ho Chi Minh City, Vietnam",
+      "country": "Ho Chi Minh City, Vietnam",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -945,6 +972,15 @@
       "deadline": null,
       "location": "ASTANA, KAZAKHSTAN",
       "country": "ASTANA, KAZAKHSTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Africa Solidarity Center Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e38-9832-e959-98ed-06dacf8379b9/1",
+      "date": "11/28/2026",
+      "deadline": null,
+      "location": "Brazzaville, Congo",
+      "country": "Brazzaville, Congo",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
