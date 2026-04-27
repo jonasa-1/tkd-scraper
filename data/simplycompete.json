@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T07:59:11.161388+00:00",
-  "count": 111,
+  "updated_at": "2026-04-27T19:00:08.548238+00:00",
+  "count": 112,
   "events": [
     {
       "name": "ADVANCED P30 CLASSIFICATION COURSE (ONSITE)",
@@ -747,6 +747,15 @@
       "deadline": null,
       "location": "SANTA FE PROVINCE, ARGENTINA",
       "country": "SANTA FE PROVINCE, ARGENTINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 Dupnitsa Open E2",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14235-5344-e544-adfa-06155f16eed1/1",
+      "date": "09/26/2026",
+      "deadline": null,
+      "location": "Dupnitsa, Bulgaria",
+      "country": "Bulgaria",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
