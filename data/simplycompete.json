@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T07:58:18.811723+00:00",
+  "updated_at": "2026-04-28T19:13:30.642325+00:00",
   "count": 111,
   "events": [
     {
@@ -399,15 +399,6 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Bosnia Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-6289-c05c-a1db-066b11207e5b/1",
-      "date": "06/21/2026",
-      "deadline": null,
-      "location": "SAJAREVO, BOSNIA & HERZEGOVINA",
-      "country": "SAJAREVO, BOSNIA & HERZEGOVINA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "(Poomsae) 2026 Oceania Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-7ccf-6216-98ed-06dacf8379b9/1",
       "date": "06/22/2026",
@@ -423,6 +414,15 @@
       "deadline": null,
       "location": "Gold Coast, Australia",
       "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 Bosnia Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14304-4e2d-f24f-adfa-06155f16eed1/1",
+      "date": "06/21/2026",
+      "deadline": null,
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
