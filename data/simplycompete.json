@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T07:53:36.928943+00:00",
+  "updated_at": "2026-04-29T19:02:52.699733+00:00",
   "count": 111,
   "events": [
     {
@@ -462,21 +462,21 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Daegu 2026 World University Taekwondo Festival",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4a-2ba1-3e37-a1db-066b11207e5b/1",
-      "date": "07/06/2026",
-      "deadline": null,
-      "location": "DAEGU, REPUBLIC OF KOREA",
-      "country": "DAEGU, REPUBLIC OF KOREA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "2026 WT Para Taekwondo Traning Camp",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-721c-5a83-a1db-066b11207e5b/1",
       "date": "06/30/2026",
       "deadline": null,
       "location": "MUJU, REPUBLIC OF KOREA",
       "country": "MUJU, REPUBLIC OF KOREA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Daegu 2026 World University Taekwondo Festival",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f143d1-2ddd-ea8d-adfa-06155f16eed1/1",
+      "date": "07/06/2026",
+      "deadline": null,
+      "location": "Daegu, Republic of Korea",
+      "country": "Republic of Korea",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -508,11 +508,11 @@
     },
     {
       "name": "Chuncheon 2026 World Taekwondo World Cup Team Championships Series",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4a-9733-162b-a1db-066b11207e5b/1",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f143da-96d4-dc7d-adfa-06155f16eed1/1",
       "date": "07/14/2026",
       "deadline": null,
-      "location": "CHUNCHEON, REPUBLIC OF KOREA",
-      "country": "CHUNCHEON, REPUBLIC OF KOREA",
+      "location": "Chuncheon, Republic of Korea",
+      "country": "Republic of Korea",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
