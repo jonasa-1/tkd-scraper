@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T08:07:47.577266+00:00",
+  "updated_at": "2026-05-07T19:19:56.180116+00:00",
   "count": 105,
   "events": [
     {
@@ -381,12 +381,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Kazakhstan Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-c3ff-b361-a1db-066b11207e5b/1",
+      "name": "Kazakhstan Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14a1c-886c-13d7-9f7f-06155f16eed1/1",
       "date": "06/25/2026",
       "deadline": null,
-      "location": "ASTANA, KAZAKHSTAN",
-      "country": "ASTANA, KAZAKHSTAN",
+      "location": "Astana, Kazakhstan",
+      "country": "Kazakhstan",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
