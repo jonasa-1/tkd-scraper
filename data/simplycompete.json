@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T08:50:24.799554+00:00",
+  "updated_at": "2026-05-11T19:21:33.514740+00:00",
   "count": 100,
   "events": [
     {
@@ -327,12 +327,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Altaic Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd49-9c42-ab27-a1db-066b11207e5b/1",
+      "name": "Altaic Taekwondo Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14d45-112b-7a55-aab6-06155f16eed1/1",
       "date": "06/22/2026",
       "deadline": null,
-      "location": "ASTANA, KAZAKHSTAN",
-      "country": "ASTANA, KAZAKHSTAN",
+      "location": "Astana, Kazakhstan",
+      "country": "Kazakhstan",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
