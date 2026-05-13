@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-13T08:26:48.931694+00:00",
-  "count": 100,
+  "updated_at": "2026-05-13T19:26:20.897589+00:00",
+  "count": 101,
   "events": [
     {
       "name": "European Senior Championships 2026",
@@ -300,6 +300,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Para Kyorugi) 2026 Oceania Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14ea6-9887-7e57-aab6-06155f16eed1/1",
+      "date": "06/21/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "(Poomsae) 2026 Oceania Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-7ccf-6216-98ed-06dacf8379b9/1",
       "date": "06/22/2026",
@@ -498,12 +507,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Riga Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4e-4a8e-bca0-a1db-066b11207e5b/1",
+      "name": "Riga Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14ed2-e212-6143-94e9-063334a1275b/1",
       "date": "08/29/2026",
       "deadline": null,
-      "location": "RIGA, LATVIA",
-      "country": "RIGA, LATVIA",
+      "location": "Riga, Latvia",
+      "country": "Latvia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
