@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-05-13T19:26:20.897589+00:00",
-  "count": 101,
+  "updated_at": "2026-05-14T08:20:50.866294+00:00",
+  "count": 99,
   "events": [
-    {
-      "name": "European Senior Championships 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10e90-b46d-cbde-9c46-066b11207e5b/1",
-      "date": "05/11/2026",
-      "deadline": null,
-      "location": "Munich, Germany",
-      "country": "Germany",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "European Para Taekwondo Championships 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10e91-9491-dd08-9c46-066b11207e5b/1",
-      "date": "05/11/2026",
-      "deadline": null,
-      "location": "Munich, Germany",
-      "country": "Germany",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "2026 10th ASTERIKS Cup E3",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdd7-c775-8934-a1db-066b11207e5b/1",
@@ -300,6 +282,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Para Poomsae) 2026 Oceania Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-f017-1a91-98ed-06dacf8379b9/1",
+      "date": "06/21/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "(Para Kyorugi) 2026 Oceania Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f14ea6-9887-7e57-aab6-06155f16eed1/1",
       "date": "06/21/2026",
@@ -311,15 +302,6 @@
     {
       "name": "(Poomsae) 2026 Oceania Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-7ccf-6216-98ed-06dacf8379b9/1",
-      "date": "06/22/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Para Poomsae) 2026 Oceania Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-f017-1a91-98ed-06dacf8379b9/1",
       "date": "06/22/2026",
       "deadline": null,
       "location": "Gold Coast, Australia",
