@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T08:32:51.829524+00:00",
-  "count": 99,
+  "updated_at": "2026-05-15T19:09:40.556973+00:00",
+  "count": 100,
   "events": [
     {
       "name": "2026 10th ASTERIKS Cup E3",
@@ -282,6 +282,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Poomsae) 2026 Oceania Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-7ccf-6216-98ed-06dacf8379b9/1",
+      "date": "06/21/2026",
+      "deadline": null,
+      "location": "Gold Coast, Australia",
+      "country": "Australia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "(Para Poomsae) 2026 Oceania Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-f017-1a91-98ed-06dacf8379b9/1",
       "date": "06/21/2026",
@@ -294,15 +303,6 @@
       "name": "(Para Kyorugi) 2026 Oceania Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f14ea6-9887-7e57-aab6-06155f16eed1/1",
       "date": "06/21/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Poomsae) 2026 Oceania Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-7ccf-6216-98ed-06dacf8379b9/1",
-      "date": "06/22/2026",
       "deadline": null,
       "location": "Gold Coast, Australia",
       "country": "Australia",
@@ -435,12 +435,30 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Poomsae) 7th Kimunyong Cup International Open Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f15088-535e-9e48-94e9-063334a1275b/1",
+      "date": "07/27/2026",
+      "deadline": null,
+      "location": "Seoul, Republic of Korea",
+      "country": "Republic of Korea",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) 7th Kimunyong Cup International Open Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f15080-6750-7d73-94e9-063334a1275b/1",
+      "date": "07/25/2026",
+      "deadline": null,
+      "location": "Seoul, Republic of Korea",
+      "country": "Republic of Korea",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "The 2nd CJ Vietnam Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e38-6901-0057-98ed-06dacf8379b9/1",
-      "date": "08/01/2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1507a-2b91-70c4-94e9-063334a1275b/1",
+      "date": "07/28/2026",
       "deadline": null,
       "location": "Ho Chi Minh City, Vietnam",
-      "country": "Ho Chi Minh City, Vietnam",
+      "country": "Vietnam",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -462,12 +480,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "34th Fajr Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4c-93ec-8b06-a1db-066b11207e5b/1",
-      "date": "08/24/2026",
+      "name": "(Poomsae) WT President's Cup - Asia",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-fdd3-9c9e-a1db-066b11207e5b/1",
+      "date": "08/27/2026",
       "deadline": null,
-      "location": "TEHRAN, ISLAMIC REPUBLIC OF IRAN",
-      "country": "TEHRAN, ISLAMIC REPUBLIC OF IRAN",
+      "location": "Lahore, PAKISTAN",
+      "country": "Lahore, PAKISTAN",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -486,6 +504,15 @@
       "deadline": null,
       "location": "TAIYUAN, PEOPLE'S REPUBLIC OF CHINA",
       "country": "TAIYUAN, PEOPLE'S REPUBLIC OF CHINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup - Asia",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-2f03-ec98-a1db-066b11207e5b/1",
+      "date": "08/28/2026",
+      "deadline": null,
+      "location": "Lahore, PAKISTAN",
+      "country": "Lahore, PAKISTAN",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -768,27 +795,9 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "(Poomsae) WT President's Cup - Asia",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-fdd3-9c9e-a1db-066b11207e5b/1",
-      "date": "11/02/2026",
-      "deadline": null,
-      "location": "ISLAMABAD, PAKISTAN",
-      "country": "ISLAMABAD, PAKISTAN",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "WT President's Cup Para Taekwondo Asia Region",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcc-24c6-332c-a1db-066b11207e5b/1",
       "date": "11/03/2026",
-      "deadline": null,
-      "location": "ISLAMABAD, PAKISTAN",
-      "country": "ISLAMABAD, PAKISTAN",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "WT President's Cup - Asia",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-2f03-ec98-a1db-066b11207e5b/1",
-      "date": "11/05/2026",
       "deadline": null,
       "location": "ISLAMABAD, PAKISTAN",
       "country": "ISLAMABAD, PAKISTAN",
