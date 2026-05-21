@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T08:50:28.962452+00:00",
-  "count": 97,
+  "updated_at": "2026-05-21T19:32:04.471581+00:00",
+  "count": 98,
   "events": [
     {
       "name": "(Youth) 2026 Lux Open",
@@ -495,6 +495,15 @@
       "deadline": null,
       "location": "Riga, Latvia",
       "country": "Latvia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 Austrian Open Youth E2",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1553b-8617-6e83-94e9-063334a1275b/1",
+      "date": "08/30/2026",
+      "deadline": null,
+      "location": "Vienna, Austria",
+      "country": "Austria",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
