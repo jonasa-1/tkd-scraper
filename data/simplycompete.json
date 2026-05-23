@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-05-22T19:18:50.343854+00:00",
-  "count": 98,
+  "updated_at": "2026-05-23T07:59:49.348904+00:00",
+  "count": 96,
   "events": [
-    {
-      "name": "(Youth) 2026 Lux Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f10b27-aa4b-7d6f-9c46-066b11207e5b/1",
-      "date": "05/23/2026",
-      "deadline": null,
-      "location": "d’COQUE 2, Luxembourg",
-      "country": "Luxembourg",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "(Seniors) Lux Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f10b29-3108-7b51-9c46-066b11207e5b/1",
@@ -327,15 +318,6 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "2026 WT Para Taekwondo Traning Camp",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-721c-5a83-a1db-066b11207e5b/1",
-      "date": "06/30/2026",
-      "deadline": null,
-      "location": "MUJU, REPUBLIC OF KOREA",
-      "country": "MUJU, REPUBLIC OF KOREA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "Daegu 2026 World University Taekwondo Festival",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f143d1-2ddd-ea8d-adfa-06155f16eed1/1",
       "date": "07/06/2026",
@@ -354,27 +336,27 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Virtus European Regional Games",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdc9-c355-a8b8-a1db-066b11207e5b/1",
-      "date": "07/03/2026",
-      "deadline": null,
-      "location": "BYDOSZCZ, POLAND",
-      "country": "BYDOSZCZ, POLAND",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "Gangwon-Chuncheon 2026 World Taekwondo Demonstration & Breaking Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4a-6849-80dc-a1db-066b11207e5b/1",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f15619-8e09-482c-94e9-063334a1275b/1",
       "date": "07/13/2026",
       "deadline": null,
-      "location": "CHUNCHEON, REPUBLIC OF KOREA",
-      "country": "CHUNCHEON, REPUBLIC OF KOREA",
+      "location": "Chuncheon City, Republic of Korea",
+      "country": "Republic of Korea",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
       "name": "Chuncheon 2026 World Taekwondo World Cup Team Championships Series",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f143da-96d4-dc7d-adfa-06155f16eed1/1",
       "date": "07/14/2026",
+      "deadline": null,
+      "location": "Chuncheon, Republic of Korea",
+      "country": "Republic of Korea",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Virtual Taekwondo 2026 Chuncheon Korea Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f15625-f5ec-798e-94e9-063334a1275b/1",
+      "date": "07/18/2026",
       "deadline": null,
       "location": "Chuncheon, Republic of Korea",
       "country": "Republic of Korea",
