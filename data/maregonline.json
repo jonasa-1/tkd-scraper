@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T09:37:28.887685+00:00",
-  "count": 11,
+  "updated_at": "2026-05-28T19:59:20.163939+00:00",
+  "count": 12,
   "events": [
     {
       "name": "ULTIMATE 1-2-1 MATCH / POOMSAE DAY",
@@ -61,6 +61,15 @@
       "url": "https://www.ma-regonline.com/tournaments/1628/TAEKWONDO-MACHINE-OPEN-CHAMPIONSHIPS-2026",
       "date": "2026-09-20",
       "deadline": "2026-09-04",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "AQUILA OPEN 2026",
+      "url": "https://www.ma-regonline.com/tournaments/1629/AQUILA-OPEN-2026",
+      "date": "2026-10-18",
+      "deadline": "2026-10-07",
       "location": "",
       "country": "",
       "source": "MA-RegOnline"
