@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-05-30T18:54:09.636740+00:00",
-  "count": 91,
+  "updated_at": "2026-05-31T08:30:15.457775+00:00",
+  "count": 90,
   "events": [
-    {
-      "name": "2026 ETU Grand Prix Open Ramus E6",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11e71-e2b9-7a5a-94f3-02074336c3e7/1",
-      "date": "05/30/2026",
-      "deadline": null,
-      "location": "Sofia, Bulgaria",
-      "country": "Bulgaria",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "(Kyorugi) 2026 African Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f131c2-12e1-2f56-8f21-064ca76c3471/1",
@@ -30,7 +21,7 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "(Para Poomsae) 2026 African Championships",
+      "name": "[CANCELLED] (Para Poomsae) 2026 African Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f131ca-e86a-e3f4-8f21-064ca76c3471/1",
       "date": "06/02/2026",
       "deadline": null,
