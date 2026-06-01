@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T11:00:40.735005+00:00",
-  "count": 12,
+  "updated_at": "2026-06-01T21:17:39.161920+00:00",
+  "count": 14,
   "events": [
     {
       "name": "ULTIMATE 1-2-1 MATCH / POOMSAE DAY",
@@ -15,7 +15,7 @@
       "name": "THE DOME OPEN TAEKWONDO CHAMPIONSHIPS",
       "url": "https://www.ma-regonline.com/tournaments/1626/THE-DOME-OPEN-TAEKWONDO-CHAMPIONSHIPS",
       "date": "2026-06-14",
-      "deadline": "2026-06-01",
+      "deadline": "2026-06-03",
       "location": "",
       "country": "",
       "source": "MA-RegOnline"
@@ -106,6 +106,24 @@
       "url": "https://www.ma-regonline.com/tournaments/1566/WLM-WINTER-CHAMPIONSHIPS-2026",
       "date": "2026-11-22",
       "deadline": "2026-11-06",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "THE 4th LMC CHAMPIONSHIPS",
+      "url": "https://www.ma-regonline.com/tournaments/1623/THE-4th-LMC-CHAMPIONSHIPS",
+      "date": "2026-12-06",
+      "deadline": "2026-11-23",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "KIXSTAR OPEN 2026",
+      "url": "https://www.ma-regonline.com/tournaments/1587/KIXSTAR-OPEN-2026",
+      "date": "2026-12-12",
+      "deadline": "2026-11-29",
       "location": "",
       "country": "",
       "source": "MA-RegOnline"
