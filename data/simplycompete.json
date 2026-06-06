@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T08:19:17.923128+00:00",
-  "count": 24,
+  "updated_at": "2026-06-06T18:59:51.018434+00:00",
+  "count": 12,
   "events": [
     {
       "name": "Roma 2026 World Taekwondo Grand Prix Series",
@@ -108,114 +108,6 @@
       "deadline": null,
       "location": "Gold Coast, Australia",
       "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Para Poomsae) Australian Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c06-8e95-faf3-ba73-06c6272711b1/1",
-      "date": "06/20/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Poomsae) 2026 Oceania Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-7ccf-6216-98ed-06dacf8379b9/1",
-      "date": "06/21/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Para Poomsae) 2026 Oceania Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e44-f017-1a91-98ed-06dacf8379b9/1",
-      "date": "06/21/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Para Kyorugi) 2026 Oceania Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14ea6-9887-7e57-aab6-06155f16eed1/1",
-      "date": "06/21/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "2026 Bosnia Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14304-4e2d-f24f-adfa-06155f16eed1/1",
-      "date": "06/21/2026",
-      "deadline": null,
-      "location": "Sarajevo, Bosnia and Herzegovina",
-      "country": "Bosnia and Herzegovina",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Altaic Taekwondo Championships 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14d45-112b-7a55-aab6-06155f16eed1/1",
-      "date": "06/22/2026",
-      "deadline": null,
-      "location": "Astana, Kazakhstan",
-      "country": "Kazakhstan",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Kazakhstan Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14a1c-886c-13d7-9f7f-06155f16eed1/1",
-      "date": "06/25/2026",
-      "deadline": null,
-      "location": "Astana, Kazakhstan",
-      "country": "Kazakhstan",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Balkan Cup 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f139d3-b406-72da-ba73-06c6272711b1/1",
-      "date": "06/27/2026",
-      "deadline": null,
-      "location": "Zrenjanin, Serbia",
-      "country": "Serbia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Solidarity Center Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f12dd9-ef8a-f327-9a07-064ca76c3471/1",
-      "date": "07/04/2026",
-      "deadline": null,
-      "location": "Montargis, France",
-      "country": "France",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Daegu 2026 World University Taekwondo Festival",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f143d1-2ddd-ea8d-adfa-06155f16eed1/1",
-      "date": "07/06/2026",
-      "deadline": null,
-      "location": "Daegu, Republic of Korea",
-      "country": "Republic of Korea",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Gangwon Chuncheon 2026 World Para Taekwondo Open Challenge",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f316-fb3e-4f33-bb1f-06d97f0218bf/1",
-      "date": "07/08/2026",
-      "deadline": null,
-      "location": "Chuncheon City, Republic of Korea",
-      "country": "Republic of Korea",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Gangwon-Chuncheon 2026 World Taekwondo Demonstration & Breaking Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f15619-8e09-482c-94e9-063334a1275b/1",
-      "date": "07/13/2026",
-      "deadline": null,
-      "location": "Chuncheon City, Republic of Korea",
-      "country": "Republic of Korea",
       "source": "World Taekwondo (SimplyCompete)"
     }
   ]
