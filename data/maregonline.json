@@ -1,5 +1,123 @@
 {
-  "updated_at": "2026-06-07T19:00:17.961444+00:00",
-  "count": 0,
-  "events": []
+  "updated_at": "2026-06-08T10:09:24.793385+00:00",
+  "count": 13,
+  "events": [
+    {
+      "name": "THE DOME OPEN TAEKWONDO CHAMPIONSHIPS",
+      "url": "https://www.ma-regonline.com/tournaments/1626/THE-DOME-OPEN-TAEKWONDO-CHAMPIONSHIPS",
+      "date": "2026-06-14",
+      "deadline": "2026-06-03",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "5th BEST LEG TKD INTERNATIONAL OPEN 2026",
+      "url": "https://www.ma-regonline.com/tournaments/1586/5th-BEST-LEG-TKD-INTERNATIONAL-OPEN-2026",
+      "date": "2026-07-12",
+      "deadline": "2026-06-27",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "APEX 1-2-1",
+      "url": "https://www.ma-regonline.com/tournaments/1619/APEX-1-2-1",
+      "date": "2026-07-19",
+      "deadline": "2026-07-10",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "KIXSTAR OPEN 2026",
+      "url": "https://www.ma-regonline.com/tournaments/1632/KIXSTAR-OPEN-2026",
+      "date": "2026-08-02",
+      "deadline": "2026-07-19",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "WHISTON TKD OPEN NATIONALS PREP EVENT",
+      "url": "https://www.ma-regonline.com/tournaments/1533/WHISTON-TKD-OPEN-NATIONALS-PREP-EVENT",
+      "date": "2026-09-06",
+      "deadline": "2026-08-23",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "TAEKWONDO MACHINE OPEN CHAMPIONSHIPS 2026",
+      "url": "https://www.ma-regonline.com/tournaments/1628/TAEKWONDO-MACHINE-OPEN-CHAMPIONSHIPS-2026",
+      "date": "2026-09-20",
+      "deadline": "2026-09-04",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "AQUILA OPEN 2026",
+      "url": "https://www.ma-regonline.com/tournaments/1629/AQUILA-OPEN-2026",
+      "date": "2026-10-18",
+      "deadline": "2026-10-07",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "WHISTON 121",
+      "url": "https://www.ma-regonline.com/tournaments/1466/WHISTON-121",
+      "date": "2026-10-25",
+      "deadline": "2026-10-16",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "THE DOME 1-2-1 MATCH DAY",
+      "url": "https://www.ma-regonline.com/tournaments/1617/THE-DOME-1-2-1-MATCH-DAY",
+      "date": "2026-11-08",
+      "deadline": "2026-10-26",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "ULTIMATE WINTER CHAMPIONSHIPS",
+      "url": "https://www.ma-regonline.com/tournaments/1588/ULTIMATE-WINTER-CHAMPIONSHIPS",
+      "date": "2026-11-15",
+      "deadline": "2026-11-06",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "WLM WINTER CHAMPIONSHIPS 2026",
+      "url": "https://www.ma-regonline.com/tournaments/1566/WLM-WINTER-CHAMPIONSHIPS-2026",
+      "date": "2026-11-22",
+      "deadline": "2026-11-06",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "THE 4th LMC CHAMPIONSHIPS",
+      "url": "https://www.ma-regonline.com/tournaments/1623/THE-4th-LMC-CHAMPIONSHIPS",
+      "date": "2026-12-06",
+      "deadline": "2026-11-23",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "KIXSTAR OPEN 2026",
+      "url": "https://www.ma-regonline.com/tournaments/1587/KIXSTAR-OPEN-2026",
+      "date": "2026-12-12",
+      "deadline": "2026-11-29",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    }
+  ]
 }
