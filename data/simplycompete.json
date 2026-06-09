@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T19:54:59.030506+00:00",
-  "count": 83,
+  "updated_at": "2026-06-09T08:55:27.430613+00:00",
+  "count": 85,
   "events": [
     {
       "name": "(Kyorugi) WT President's Cup - Oceania 2026",
@@ -291,21 +291,48 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "2026 China Open International Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4c-1885-3439-a1db-066b11207e5b/1",
-      "date": "08/18/2026",
+      "name": "2026 Belgian Open Poomsae",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f163e0-6edd-5918-aeb3-06232d08ab03/1",
+      "date": "08/15/2026",
       "deadline": null,
-      "location": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
+      "location": "Brussels, Belgium",
+      "country": "Belgium",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
       "name": "(Poomsae) WT President's Cup - Asia",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-fdd3-9c9e-a1db-066b11207e5b/1",
-      "date": "08/27/2026",
+      "date": "08/17/2026",
       "deadline": null,
       "location": "Lahore, PAKISTAN",
       "country": "Lahore, PAKISTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT President's Cup - Asia",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-2f03-ec98-a1db-066b11207e5b/1",
+      "date": "08/18/2026",
+      "deadline": null,
+      "location": "Lahore, PAKISTAN",
+      "country": "Lahore, PAKISTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Kyorugi) WT President's Cup - Asia",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f163d9-776e-82be-aeb3-06232d08ab03/1",
+      "date": "08/21/2026",
+      "deadline": null,
+      "location": "Lahore, PAKISTAN",
+      "country": "Lahore, PAKISTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 China Open International Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4c-1885-3439-a1db-066b11207e5b/1",
+      "date": "08/23/2026",
+      "deadline": null,
+      "location": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
+      "country": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -324,15 +351,6 @@
       "deadline": null,
       "location": "TAIYUAN, PEOPLE'S REPUBLIC OF CHINA",
       "country": "TAIYUAN, PEOPLE'S REPUBLIC OF CHINA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "WT President's Cup - Asia",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-2f03-ec98-a1db-066b11207e5b/1",
-      "date": "08/28/2026",
-      "deadline": null,
-      "location": "Lahore, PAKISTAN",
-      "country": "Lahore, PAKISTAN",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
