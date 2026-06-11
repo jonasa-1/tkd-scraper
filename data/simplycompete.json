@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T20:02:55.587761+00:00",
+  "updated_at": "2026-06-11T09:57:00.700905+00:00",
   "count": 86,
   "events": [
     {
@@ -345,15 +345,6 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Taiyuan 2026 World Taekwondo Women's Open Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4e-1342-b326-a1db-066b11207e5b/1",
-      "date": "08/28/2026",
-      "deadline": null,
-      "location": "TAIYUAN, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "TAIYUAN, PEOPLE'S REPUBLIC OF CHINA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "Riga Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f14ed2-e212-6143-94e9-063334a1275b/1",
       "date": "08/29/2026",
@@ -369,6 +360,15 @@
       "deadline": null,
       "location": "Vienna, Austria",
       "country": "Austria",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Taiyuan 2026 World Taekwondo Women’s Open Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f16576-ef4c-0993-aeb3-06232d08ab03/1",
+      "date": "08/28/2026",
+      "deadline": null,
+      "location": "Taiyuan, People's Republic Of China",
+      "country": "People's Republic Of China",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
