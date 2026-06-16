@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T10:46:56.475464+00:00",
-  "count": 87,
+  "updated_at": "2026-06-16T20:33:26.059745+00:00",
+  "count": 88,
   "events": [
     {
       "name": "(Kyorugi) WT President's Cup - Oceania 2026",
@@ -309,12 +309,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "(Poomsae) WT President's Cup - Asia",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-fdd3-9c9e-a1db-066b11207e5b/1",
+      "name": "(Poomsae) WT President's Cup - Asia 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1697d-167f-aa93-81c0-06232d08ab03/1",
       "date": "08/17/2026",
       "deadline": null,
-      "location": "Lahore, PAKISTAN",
-      "country": "Lahore, PAKISTAN",
+      "location": "Lahore, Pakistan",
+      "country": "Pakistan",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -327,12 +327,21 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "(Para Kyorugi) WT President's Cup - Asia",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f163d9-776e-82be-aeb3-06232d08ab03/1",
+      "name": "(Kyorugi) WT President's Cup - Asia 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f16977-c921-b53f-81c0-06232d08ab03/1",
+      "date": "08/18/2026",
+      "deadline": null,
+      "location": "Lahore, Pakistan",
+      "country": "Pakistan",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Para Kyorugi) WT President's Cup - Asia 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1697b-da58-0029-81c0-06232d08ab03/1",
       "date": "08/21/2026",
       "deadline": null,
-      "location": "Lahore, PAKISTAN",
-      "country": "Lahore, PAKISTAN",
+      "location": "Lahore, Pakistan",
+      "country": "Pakistan",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
