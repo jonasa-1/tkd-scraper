@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-06-17T19:52:55.152388+00:00",
-  "count": 11,
+  "updated_at": "2026-06-18T09:59:54.287710+00:00",
+  "count": 13,
   "events": [
+    {
+      "name": "Tropee Kwon Bong Sik PAITA",
+      "url": "https://www.ma-regonline.com/tournaments/1675/Tropee-Kwon-Bong-Sik-PAITA",
+      "date": "2026-07-11",
+      "deadline": "2026-07-04",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
     {
       "name": "5th BEST LEG TKD INTERNATIONAL OPEN 2026",
       "url": "https://www.ma-regonline.com/tournaments/1586/5th-BEST-LEG-TKD-INTERNATIONAL-OPEN-2026",
@@ -16,6 +25,15 @@
       "url": "https://www.ma-regonline.com/tournaments/1619/APEX-1-2-1",
       "date": "2026-07-19",
       "deadline": "2026-07-10",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "Coupe Kwon Bong Sik Mont Dore",
+      "url": "https://www.ma-regonline.com/tournaments/1676/Coupe-Kwon-Bong-Sik-Mont-Dore",
+      "date": "2026-07-25",
+      "deadline": "2026-07-18",
       "location": "",
       "country": "",
       "source": "MA-RegOnline"
