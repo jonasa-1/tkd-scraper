@@ -1,43 +1,7 @@
 {
-  "updated_at": "2026-06-18T20:02:36.214308+00:00",
-  "count": 87,
+  "updated_at": "2026-06-19T10:05:55.751814+00:00",
+  "count": 83,
   "events": [
-    {
-      "name": "(Kyorugi) WT President's Cup - Oceania 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c00-252c-41fd-ba73-06c6272711b1/1",
-      "date": "06/18/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Para Kyorugi) WT President's Cup - Oceania 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c00-d694-8514-ba73-06c6272711b1/1",
-      "date": "06/18/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Poomsae) WT President's Cup - Oceania 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c02-13b6-9606-ba73-06c6272711b1/1",
-      "date": "06/18/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "(Para Poomsae) WT President's Cup - Oceania 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13c02-d50f-0b9b-ba73-06c6272711b1/1",
-      "date": "06/18/2026",
-      "deadline": null,
-      "location": "Gold Coast, Australia",
-      "country": "Australia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "2026 European Clubs Championship",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f14157-28fb-b287-adfa-06155f16eed1/1",
@@ -507,6 +471,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "2026 South American Games",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4e-e740-90d4-a1db-066b11207e5b/1",
+      "date": "09/23/2026",
+      "deadline": null,
+      "location": "SANTA FE PROVINCE, ARGENTINA",
+      "country": "SANTA FE PROVINCE, ARGENTINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "Damascus Open Championship",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd44-f30e-2821-a1db-066b11207e5b/1",
       "date": "09/24/2026",
@@ -516,12 +489,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "2026 South American Games",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4e-e740-90d4-a1db-066b11207e5b/1",
-      "date": "09/12/2026",
+      "name": "Brazil Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4f-69fa-7304-a1db-066b11207e5b/1",
+      "date": "09/24/2026",
       "deadline": null,
-      "location": "SANTA FE PROVINCE, ARGENTINA",
-      "country": "SANTA FE PROVINCE, ARGENTINA",
+      "location": "Londrina, BRAZIL",
+      "country": "Londrina, BRAZIL",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -540,15 +513,6 @@
       "deadline": null,
       "location": "Warsaw, Poland",
       "country": "Poland",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Brazil Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4f-69fa-7304-a1db-066b11207e5b/1",
-      "date": "09/24/2026",
-      "deadline": null,
-      "location": "Londrina, BRAZIL",
-      "country": "Londrina, BRAZIL",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
