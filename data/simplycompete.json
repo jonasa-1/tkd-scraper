@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-06-19T19:19:38.739558+00:00",
-  "count": 83,
+  "updated_at": "2026-06-20T08:36:28.804420+00:00",
+  "count": 82,
   "events": [
-    {
-      "name": "2026 European Clubs Championship",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14157-28fb-b287-adfa-06155f16eed1/1",
-      "date": "06/18/2026",
-      "deadline": null,
-      "location": "Sarajevo, Bosnia and Herzegovina",
-      "country": "Bosnia and Herzegovina",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "Austrian Open Poomsae 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f12456-6d05-cd08-9a07-064ca76c3471/1",
@@ -309,12 +300,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "WT President's Cup - Pan Am",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd48-6d7b-38b3-a1db-066b11207e5b/1",
-      "date": "08/26/2026",
+      "name": "(Poomsae) WT President's Cup - Panam 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f16c81-badd-444f-8330-06eafe362e4f/1",
+      "date": "08/28/2026",
       "deadline": null,
       "location": "Lima, Peru",
-      "country": "Lima, Peru",
+      "country": "Peru",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
