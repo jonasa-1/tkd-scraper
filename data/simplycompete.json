@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T08:36:28.804420+00:00",
-  "count": 82,
+  "updated_at": "2026-06-20T19:03:26.754917+00:00",
+  "count": 83,
   "events": [
     {
       "name": "Austrian Open Poomsae 2026",
@@ -297,6 +297,15 @@
       "deadline": null,
       "location": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
       "country": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) WT President's Cup - Panam 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f16c98-2619-cdfe-8330-06eafe362e4f/1",
+      "date": "08/26/2026",
+      "deadline": null,
+      "location": "Lima, Peru",
+      "country": "Peru",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
