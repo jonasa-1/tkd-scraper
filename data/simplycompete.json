@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T19:21:31.285189+00:00",
-  "count": 72,
+  "updated_at": "2026-06-25T08:42:16.002234+00:00",
+  "count": 73,
   "events": [
     {
       "name": "Kazakhstan Open 2026",
@@ -351,6 +351,15 @@
       "deadline": null,
       "location": "HAMBURG, GERMANY",
       "country": "HAMBURG, GERMANY",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Chuncheon 2026 World Taekwondo Poomsae Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17003-55cb-faec-8330-06eafe362e4f/1",
+      "date": "09/16/2026",
+      "deadline": null,
+      "location": "Chuncheon, Republic of Korea",
+      "country": "Republic of Korea",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
