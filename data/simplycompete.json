@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T08:36:49.458151+00:00",
-  "count": 71,
+  "updated_at": "2026-07-02T19:03:09.476797+00:00",
+  "count": 72,
   "events": [
     {
       "name": "Solidarity Center Open 2026",
@@ -237,6 +237,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "WT Council Registration for Taiyuan 2026 World Taekwondo Women’s Open Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17606-1171-adcf-8330-06eafe362e4f/1",
+      "date": "08/28/2026",
+      "deadline": null,
+      "location": "Taiyuan, China",
+      "country": "Taiyuan, China",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "2nd World Para Taekwondo Poomsae Championships",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdca-2e51-0d06-a1db-066b11207e5b/1",
       "date": "09/01/2026",
@@ -273,15 +282,6 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Nations Cup Peru 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4d-44a6-17c8-a1db-066b11207e5b/1",
-      "date": "09/03/2026",
-      "deadline": null,
-      "location": "LIMA, PERU",
-      "country": "LIMA, PERU",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "(Seniors) Swiss Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f11669-cb44-165a-80f0-02074336c3e7/1",
       "date": "09/06/2026",
@@ -315,6 +315,15 @@
       "deadline": null,
       "location": "Tirana, Albania",
       "country": "Tirana, Albania",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Nations Cup Peru 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4d-44a6-17c8-a1db-066b11207e5b/1",
+      "date": "09/11/2026",
+      "deadline": null,
+      "location": "LIMA, PERU",
+      "country": "LIMA, PERU",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
