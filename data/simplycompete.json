@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-07-06T19:25:12.620499+00:00",
-  "count": 71,
+  "updated_at": "2026-07-07T08:58:39.478799+00:00",
+  "count": 70,
   "events": [
-    {
-      "name": "Daegu 2026 World University Taekwondo Festival",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f143d1-2ddd-ea8d-adfa-06155f16eed1/1",
-      "date": "07/06/2026",
-      "deadline": null,
-      "location": "Daegu, Republic of Korea",
-      "country": "Republic of Korea",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "Gangwon Chuncheon 2026 World Para Taekwondo Open Challenge",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f316-fb3e-4f33-bb1f-06d97f0218bf/1",
@@ -309,12 +300,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Nations Cup Peru 2026",
+      "name": "Nations Cup Ecuador 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4d-44a6-17c8-a1db-066b11207e5b/1",
       "date": "09/11/2026",
       "deadline": null,
-      "location": "LIMA, PERU",
-      "country": "LIMA, PERU",
+      "location": "Quito, Ecuador",
+      "country": "Quito, Ecuador",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
