@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T08:58:39.478799+00:00",
-  "count": 70,
+  "updated_at": "2026-07-07T19:28:04.081553+00:00",
+  "count": 72,
   "events": [
     {
       "name": "Gangwon Chuncheon 2026 World Para Taekwondo Open Challenge",
@@ -300,6 +300,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Onsite) IR Seminar_65th Poomsae (Tirana, Albania) Invitation Based",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f179f9-cce0-fbac-a951-06eafe362e4f/1",
+      "date": "09/08/2026",
+      "deadline": null,
+      "location": "Tirana, Albania",
+      "country": "Albania",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "Nations Cup Ecuador 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4d-44a6-17c8-a1db-066b11207e5b/1",
       "date": "09/11/2026",
@@ -315,6 +324,15 @@
       "deadline": null,
       "location": "Nis, Serbia",
       "country": "Serbia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Onsite) IR Seminar_(141st Kyorugi, Tirana, Albania) Invitation Based",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f179f4-af79-9d9e-a951-06eafe362e4f/1",
+      "date": "09/12/2026",
+      "deadline": null,
+      "location": "Tirana, Albania",
+      "country": "Albania",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -444,24 +462,6 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Paris 2026 World Taekwondo Grand Prix Series",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-34b7-fffc-a1db-066b11207e5b/1",
-      "date": "10/08/2026",
-      "deadline": null,
-      "location": "PARIS, FRANCE",
-      "country": "PARIS, FRANCE",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Montenegro Podgorica Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-5ef3-4e92-a1db-066b11207e5b/1",
-      "date": "10/10/2026",
-      "deadline": null,
-      "location": "PODGORICA, MONTENEGRO",
-      "country": "PODGORICA, MONTENEGRO",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "Virtus Americas Regional Games",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcb-38ed-27fd-a1db-066b11207e5b/1",
       "date": "10/02/2026",
@@ -477,6 +477,24 @@
       "deadline": null,
       "location": "PARIS, FRANCE",
       "country": "PARIS, FRANCE",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Montenegro Podgorica Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f179fd-6c23-37f4-a951-06eafe362e4f/1",
+      "date": "10/10/2026",
+      "deadline": null,
+      "location": "Podgorica, Montenegro",
+      "country": "Montenegro",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Paris 2026 World Taekwondo Grand Prix Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17a07-93b0-e774-a951-06eafe362e4f/1",
+      "date": "10/09/2026",
+      "deadline": null,
+      "location": "Paris, France",
+      "country": "France",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
