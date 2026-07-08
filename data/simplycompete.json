@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T08:01:13.880961+00:00",
-  "count": 72,
+  "updated_at": "2026-07-08T18:59:27.410960+00:00",
+  "count": 74,
   "events": [
     {
       "name": "Gangwon Chuncheon 2026 World Para Taekwondo Open Challenge",
@@ -111,12 +111,21 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Colombia Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4b-dfb6-aa64-a1db-066b11207e5b/1",
+      "name": "(Poomsae) Colombia Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17af6-e541-e3cc-a951-06eafe362e4f/1",
       "date": "08/05/2026",
       "deadline": null,
-      "location": "SUCRE, COLOMBIA",
-      "country": "SUCRE, COLOMBIA",
+      "location": "Sucre, Colombia",
+      "country": "Colombia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) Colombia Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17af4-f6ef-de0a-a951-06eafe362e4f/1",
+      "date": "08/06/2026",
+      "deadline": null,
+      "location": "Sucre, Colombia",
+      "country": "Colombia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -309,12 +318,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Nations Cup Ecuador 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4d-44a6-17c8-a1db-066b11207e5b/1",
+      "name": "(Poomsae) Nations Cup 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17afb-43b2-fef7-a951-06eafe362e4f/1",
       "date": "09/11/2026",
       "deadline": null,
       "location": "Quito, Ecuador",
-      "country": "Quito, Ecuador",
+      "country": "Ecuador",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -324,6 +333,15 @@
       "deadline": null,
       "location": "Nis, Serbia",
       "country": "Serbia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) Nations Cup 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17afa-2eee-7c4c-a951-06eafe362e4f/1",
+      "date": "09/12/2026",
+      "deadline": null,
+      "location": "Quito, Ecuador",
+      "country": "Ecuador",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -462,21 +480,21 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "Paris 2026 World Para Taekwondo Grand Prix Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17aa7-19bb-ef73-a951-06eafe362e4f/1",
+      "date": "10/08/2026",
+      "deadline": null,
+      "location": "Paris, France",
+      "country": "France",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "Virtus Americas Regional Games",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcb-38ed-27fd-a1db-066b11207e5b/1",
       "date": "10/02/2026",
       "deadline": null,
       "location": "LIMA, PERU",
       "country": "LIMA, PERU",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Paris 2026 World Para Taekwondo Grand Prix Series",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcb-723f-d6ed-a1db-066b11207e5b/1",
-      "date": "10/08/2026",
-      "deadline": null,
-      "location": "PARIS, FRANCE",
-      "country": "PARIS, FRANCE",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
