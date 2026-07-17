@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T07:46:30.843499+00:00",
-  "count": 71,
+  "updated_at": "2026-07-17T18:46:12.299875+00:00",
+  "count": 72,
   "events": [
     {
       "name": "Virtual Taekwondo 2026 Chuncheon Korea Open",
@@ -558,6 +558,15 @@
       "deadline": null,
       "location": "ZAGREB, CROATIA",
       "country": "ZAGREB, CROATIA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Muju Taekwondowon 2026 11th World Para Taekwondo Championships (G-14)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f18201-5c29-3a8b-a951-06eafe362e4f/1",
+      "date": "11/20/2026",
+      "deadline": null,
+      "location": "Muju, Republic of Korea",
+      "country": "Republic of Korea",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
