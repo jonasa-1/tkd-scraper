@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-07-20T19:18:54.740827+00:00",
+  "updated_at": "2026-07-21T08:00:59.644466+00:00",
   "count": 71,
   "events": [
-    {
-      "name": "(Kyorugi) 2026 Chuncheon Korea Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f52c-4f24-99c5-abeb-02e00a1b3d49/1",
-      "date": "07/20/2026",
-      "deadline": null,
-      "location": "Chuncheon, Republic of Korea",
-      "country": "Republic of Korea",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "(Poomsae) 2026 Chuncheon Korea Open",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0f52f-ee4e-1d77-abeb-02e00a1b3d49/1",
@@ -417,15 +408,6 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "11th Croatia Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-1017-2add-a1db-066b11207e5b/1",
-      "date": "10/03/2026",
-      "deadline": null,
-      "location": "ZAGREB, CROATIA",
-      "country": "ZAGREB, CROATIA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "(Youth) Albania Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f15b59-26bf-8b32-94e9-063334a1275b/1",
       "date": "10/02/2026",
@@ -477,6 +459,24 @@
       "deadline": null,
       "location": "Paris, France",
       "country": "France",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "WT Council Registration for Paris 2026 World Taekwondo Grand Prix Series",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f184d9-7825-0e91-a951-06eafe362e4f/1",
+      "date": "10/09/2026",
+      "deadline": null,
+      "location": "Paris, France",
+      "country": "France",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "11th Croatia Open",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-1017-2add-a1db-066b11207e5b/1",
+      "date": "10/17/2026",
+      "deadline": null,
+      "location": "ZAGREB, CROATIA",
+      "country": "ZAGREB, CROATIA",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
