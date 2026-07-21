@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T08:00:59.644466+00:00",
-  "count": 71,
+  "updated_at": "2026-07-21T18:58:45.476119+00:00",
+  "count": 72,
   "events": [
     {
       "name": "(Poomsae) 2026 Chuncheon Korea Open",
@@ -129,12 +129,21 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "2026 China Open International Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd4c-1885-3439-a1db-066b11207e5b/1",
+      "name": "(Poomsae) 2026 China Open International Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f184ee-8662-54fb-a951-06eafe362e4f/1",
+      "date": "08/22/2026",
+      "deadline": null,
+      "location": "Changsha, People's Republic Of China",
+      "country": "People's Republic Of China",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) 2026 China Open International Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f184e8-d1ca-6f29-a951-06eafe362e4f/1",
       "date": "08/23/2026",
       "deadline": null,
-      "location": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "CHANGSHA, PEOPLE'S REPUBLIC OF CHINA",
+      "location": "Changsha, People's Republic Of China",
+      "country": "People's Republic Of China",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
