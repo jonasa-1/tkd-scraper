@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T08:08:07.814012+00:00",
-  "count": 68,
+  "updated_at": "2026-07-28T18:59:38.164613+00:00",
+  "count": 69,
   "events": [
     {
       "name": "The 2nd CJ Vietnam Open 2026",
@@ -477,6 +477,15 @@
       "deadline": null,
       "location": "Bucharest, Romania",
       "country": "Romania",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 Pan American Club Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f18a66-8285-7ef1-ad9c-06be3f44746f/1",
+      "date": "10/22/2026",
+      "deadline": null,
+      "location": "Florida, USA",
+      "country": "Florida, USA",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
