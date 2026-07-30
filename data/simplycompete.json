@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T08:00:38.891748+00:00",
+  "updated_at": "2026-07-30T19:03:55.211640+00:00",
   "count": 68,
   "events": [
     {
@@ -435,12 +435,12 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "12th Croatia Poomsae Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-1017-2add-a1db-066b11207e5b/1",
+      "name": "12th Croatia Open Poomsae",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f18c13-b7ae-32b6-ad9c-06be3f44746f/1",
       "date": "10/17/2026",
       "deadline": null,
-      "location": "ZAGREB, CROATIA",
-      "country": "ZAGREB, CROATIA",
+      "location": "Zagreb, Croatia",
+      "country": "Croatia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
