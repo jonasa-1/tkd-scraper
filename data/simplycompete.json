@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T07:57:01.529762+00:00",
-  "count": 66,
+  "updated_at": "2026-08-02T18:45:59.611470+00:00",
+  "count": 68,
   "events": [
     {
       "name": "(Kyorugi) 8th Asian Taekwondo Indonesia Open Championships 2026",
@@ -453,12 +453,30 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Poomsae) 2026 Pan American Club Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f18e81-9fb9-df9c-ad9c-06be3f44746f/1",
+      "date": "10/22/2026",
+      "deadline": null,
+      "location": "Daytona Beach, United States of America",
+      "country": "United States of America",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "2026 Dracula Open",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f163e5-6d98-d890-aeb3-06232d08ab03/1",
       "date": "10/23/2026",
       "deadline": null,
       "location": "Bucharest, Romania",
       "country": "Romania",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) 2026 Pan American Club Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f18e7f-c1cd-6410-ad9c-06be3f44746f/1",
+      "date": "10/23/2026",
+      "deadline": null,
+      "location": "Daytona Beach, United States of America",
+      "country": "United States of America",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
