@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T06:20:34.471322+00:00",
-  "count": 61,
+  "updated_at": "2026-08-21T18:17:25.514435+00:00",
+  "count": 62,
   "events": [
     {
       "name": "(Poomsae) 2026 China Open International Taekwondo Championships",
@@ -477,6 +477,15 @@
       "deadline": null,
       "location": "Brazzaville, Congo",
       "country": "Brazzaville, Congo",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "European Cadet Championships 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f19d4b-8389-2fc6-bafc-06be3f44746f/1",
+      "date": "11/26/2026",
+      "deadline": null,
+      "location": "Bucharest, Romania",
+      "country": "Romania",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
