@@ -1,43 +1,7 @@
 {
-  "updated_at": "2026-08-29T20:01:56.645135+00:00",
-  "count": 58,
+  "updated_at": "2026-08-30T10:47:05.723480+00:00",
+  "count": 48,
   "events": [
-    {
-      "name": "Riga Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f14ed2-e212-6143-94e9-063334a1275b/1",
-      "date": "08/29/2026",
-      "deadline": null,
-      "location": "Riga, Latvia",
-      "country": "Latvia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "2026 Austrian Open Youth E2",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1553b-8617-6e83-94e9-063334a1275b/1",
-      "date": "08/30/2026",
-      "deadline": null,
-      "location": "Vienna, Austria",
-      "country": "Austria",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Taiyuan 2026 World Taekwondo Women’s Open Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f16576-ef4c-0993-aeb3-06232d08ab03/1",
-      "date": "08/28/2026",
-      "deadline": null,
-      "location": "Taiyuan, People's Republic Of China",
-      "country": "People's Republic Of China",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "WT Council Registration for Taiyuan 2026 World Taekwondo Women’s Open Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17606-1171-adcf-8330-06eafe362e4f/1",
-      "date": "08/28/2026",
-      "deadline": null,
-      "location": "Taiyuan, China",
-      "country": "Taiyuan, China",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "Muju Taekwondowon 2026 World Para Taekwondo Grand Prix Series",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f168ca-65be-03fc-81c0-06232d08ab03/1",
@@ -468,60 +432,6 @@
       "deadline": null,
       "location": "ASTANA, KAZAKHSTAN",
       "country": "ASTANA, KAZAKHSTAN",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Africa Solidarity Center Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f13e38-9832-e959-98ed-06dacf8379b9/1",
-      "date": "11/28/2026",
-      "deadline": null,
-      "location": "Brazzaville, Congo",
-      "country": "Brazzaville, Congo",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Virtus Asia Oceania Games",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcc-4e43-14e1-a1db-066b11207e5b/1",
-      "date": "11/20/2026",
-      "deadline": null,
-      "location": "BANGKOK, THAILAND",
-      "country": "BANGKOK, THAILAND",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "2026 ETU Grand Prix Open Final E10",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110a8-4f67-aaae-a059-063ab986362d/1",
-      "date": "12/05/2026",
-      "deadline": null,
-      "location": "Sarajevo, Bosnia and Herzegovina",
-      "country": "Bosnia and Herzegovina",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Wuxi 2026 World Taekwondo Grand Slam Challenge",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-1986-b6d9-a1db-066b11207e5b/1",
-      "date": "12/09/2026",
-      "deadline": null,
-      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Wuxi 2026 World Taekwondo Grand Slam Champions Series",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-4be2-dda6-a1db-066b11207e5b/1",
-      "date": "12/12/2026",
-      "deadline": null,
-      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Wuxi 2026 World Taekwondo World Cup Team Championships Final",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-6eeb-8662-a1db-066b11207e5b/1",
-      "date": "12/15/2026",
-      "deadline": null,
-      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
       "source": "World Taekwondo (SimplyCompete)"
     }
   ]
