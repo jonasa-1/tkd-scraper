@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T11:53:59.439646+00:00",
-  "count": 54,
+  "updated_at": "2026-08-31T22:05:11.517404+00:00",
+  "count": 56,
   "events": [
     {
       "name": "Muju Taekwondowon 2026 World Para Taekwondo Grand Prix Series",
@@ -372,6 +372,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Onsite) IR Refresher_160th Kyorugi (Guangzhou, China)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a563-c46e-63d7-b40b-023d1c5009dd/1",
+      "date": "11/17/2026",
+      "deadline": null,
+      "location": "Guangzhou, People's Republic Of China",
+      "country": "People's Republic Of China",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "2026 The Malta E2",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f19343-1b40-f636-bafc-06be3f44746f/1",
       "date": "11/21/2026",
@@ -396,6 +405,15 @@
       "deadline": null,
       "location": "Pune, India",
       "country": "Pune, India",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Onsite) IR Refresher_65th Poomsae (Guangzhou, China)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a565-59d3-5d00-b40b-023d1c5009dd/1",
+      "date": "11/23/2026",
+      "deadline": null,
+      "location": "Guangzhou, People's Republic Of China",
+      "country": "People's Republic Of China",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
