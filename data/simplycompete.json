@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T10:33:18.924078+00:00",
-  "count": 56,
+  "updated_at": "2026-09-01T20:11:06.288370+00:00",
+  "count": 58,
   "events": [
     {
       "name": "Muju Taekwondowon 2026 World Para Taekwondo Grand Prix Series",
@@ -283,11 +283,11 @@
     },
     {
       "name": "6th Qatar Open Championship 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd50-875b-8bbe-a1db-066b11207e5b/1",
-      "date": "10/19/2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a5fc-b95e-deab-b40b-023d1c5009dd/1",
+      "date": "10/18/2026",
       "deadline": null,
-      "location": "DOHA, QATAR",
-      "country": "DOHA, QATAR",
+      "location": "Doha, Qatar",
+      "country": "Qatar",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -396,6 +396,24 @@
       "deadline": null,
       "location": "Muju, Republic of Korea",
       "country": "Republic of Korea",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "TD Refresher Course 2026 Guanghou",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a616-6877-82cc-b40b-023d1c5009dd/1",
+      "date": "11/21/2026",
+      "deadline": null,
+      "location": "Guangzhou, People's Republic Of China",
+      "country": "People's Republic Of China",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "TD Certification Course 2026 Guangzhou",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a620-e98b-bf7e-b40b-023d1c5009dd/1",
+      "date": "11/21/2026",
+      "deadline": null,
+      "location": "Guangzhou, People's Republic Of China",
+      "country": "People's Republic Of China",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
