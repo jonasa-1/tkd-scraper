@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T10:09:35.973241+00:00",
-  "count": 59,
+  "updated_at": "2026-09-03T20:10:18.090558+00:00",
+  "count": 60,
   "events": [
     {
       "name": "Muju Taekwondowon 2026 World Para Taekwondo Grand Prix Series",
@@ -531,6 +531,15 @@
       "deadline": null,
       "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
       "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 Krasniqi Open E2",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a799-517e-b867-bed1-023d1c5009dd/1",
+      "date": "12/19/2026",
+      "deadline": null,
+      "location": "Aigle, Switzerland",
+      "country": "Switzerland",
       "source": "World Taekwondo (SimplyCompete)"
     }
   ]
