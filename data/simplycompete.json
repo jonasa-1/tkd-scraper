@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-05T19:36:14.325172+00:00",
-  "count": 58,
+  "updated_at": "2026-09-06T09:43:23.981868+00:00",
+  "count": 56,
   "events": [
-    {
-      "name": "(Seniors) Swiss Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11669-cb44-165a-80f0-02074336c3e7/1",
-      "date": "09/06/2026",
-      "deadline": null,
-      "location": "St. Gallen, Switzerland",
-      "country": "Switzerland",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Swiss Open Para Taekwondo 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f11cba-cab1-7bd4-94f3-02074336c3e7/1",
-      "date": "09/06/2026",
-      "deadline": null,
-      "location": "St. Gallen, Switzerland",
-      "country": "Switzerland",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "Muju Taekwondowon 2026 World Taekwondo Grand Prix Series",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f15c1c-6cf2-d80a-94e9-063334a1275b/1",
