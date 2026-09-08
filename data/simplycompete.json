@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T20:51:09.317967+00:00",
-  "count": 54,
+  "updated_at": "2026-09-08T10:11:05.410262+00:00",
+  "count": 48,
   "events": [
     {
       "name": "(Onsite) IR Seminar_65th Poomsae (Tirana, Albania) Invitation Based",
@@ -432,60 +432,6 @@
       "deadline": null,
       "location": "Brazzaville, Congo",
       "country": "Congo",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Virtus Asia Oceania Games",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcc-4e43-14e1-a1db-066b11207e5b/1",
-      "date": "11/20/2026",
-      "deadline": null,
-      "location": "BANGKOK, THAILAND",
-      "country": "BANGKOK, THAILAND",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "2026 ETU Grand Prix Open Final E10",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f110a8-4f67-aaae-a059-063ab986362d/1",
-      "date": "12/05/2026",
-      "deadline": null,
-      "location": "Sarajevo, Bosnia and Herzegovina",
-      "country": "Bosnia and Herzegovina",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Wuxi 2026 World Taekwondo Grand Slam Challenge",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-1986-b6d9-a1db-066b11207e5b/1",
-      "date": "12/09/2026",
-      "deadline": null,
-      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Wuxi 2026 World Taekwondo Grand Slam Champions Series",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-4be2-dda6-a1db-066b11207e5b/1",
-      "date": "12/12/2026",
-      "deadline": null,
-      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Wuxi 2026 World Taekwondo World Cup Team Championships Final",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-6eeb-8662-a1db-066b11207e5b/1",
-      "date": "12/15/2026",
-      "deadline": null,
-      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "2026 Krasniqi Open E2",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a799-517e-b867-bed1-023d1c5009dd/1",
-      "date": "12/19/2026",
-      "deadline": null,
-      "location": "Aigle, Switzerland",
-      "country": "Switzerland",
       "source": "World Taekwondo (SimplyCompete)"
     }
   ]
