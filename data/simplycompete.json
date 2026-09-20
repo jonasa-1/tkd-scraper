@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-09-19T19:37:08.021665+00:00",
-  "count": 52,
+  "updated_at": "2026-09-20T10:08:46.339445+00:00",
+  "count": 50,
   "events": [
-    {
-      "name": "Chuncheon 2026 World Taekwondo Poomsae Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17003-55cb-faec-8330-06eafe362e4f/1",
-      "date": "09/16/2026",
-      "deadline": null,
-      "location": "Chuncheon, Republic of Korea",
-      "country": "Republic of Korea",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "German Open 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f17911-d250-edd3-b34e-06eafe362e4f/1",
-      "date": "09/19/2026",
-      "deadline": null,
-      "location": "Hamburg, Germany",
-      "country": "Germany",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "(Poomsae) Brazil Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f18298-86fa-d036-a951-06eafe362e4f/1",
