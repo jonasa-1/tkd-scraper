@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T10:23:10.994950+00:00",
-  "count": 49,
+  "updated_at": "2026-09-22T20:30:15.965490+00:00",
+  "count": 50,
   "events": [
     {
       "name": "(Poomsae) Brazil Open 2026",
@@ -396,6 +396,15 @@
       "deadline": null,
       "location": "BANGKOK, THAILAND",
       "country": "BANGKOK, THAILAND",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(DEC) WT Standing International Referee Selection & Training Camp 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1b683-2919-e64e-b354-023d1c5009dd/1",
+      "date": "11/30/2026",
+      "deadline": null,
+      "location": "Astana, Kazakhstan",
+      "country": "Kazakhstan",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
