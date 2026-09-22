@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T21:15:37.917785+00:00",
-  "count": 50,
+  "updated_at": "2026-09-22T10:23:10.994950+00:00",
+  "count": 49,
   "events": [
     {
       "name": "(Poomsae) Brazil Open 2026",
@@ -108,15 +108,6 @@
       "deadline": null,
       "location": "Paris, France",
       "country": "France",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Virtus Americas Regional Games",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcb-38ed-27fd-a1db-066b11207e5b/1",
-      "date": "10/02/2026",
-      "deadline": null,
-      "location": "LIMA, PERU",
-      "country": "LIMA, PERU",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
