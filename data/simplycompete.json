@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T20:43:03.586028+00:00",
-  "count": 53,
+  "updated_at": "2026-09-24T10:32:47.411281+00:00",
+  "count": 54,
   "events": [
     {
       "name": "(Poomsae) Brazil Open 2026",
@@ -246,12 +246,21 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "Colombia Open",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f19169-21c9-73b3-ac9f-06be3f44746f/1",
+      "name": "(Poomsae) Colombia Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1b7cf-ccf4-6d1a-b354-023d1c5009dd/1",
       "date": "11/04/2026",
       "deadline": null,
       "location": "Sucre, Colombia",
-      "country": "Sucre, Colombia",
+      "country": "Colombia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "(Kyorugi) Colombia Open 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1b7d1-5b8e-82d8-b354-023d1c5009dd/1",
+      "date": "11/05/2026",
+      "deadline": null,
+      "location": "Sucre, Colombia",
+      "country": "Colombia",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
