@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T21:59:36.195466+00:00",
+  "updated_at": "2026-10-14T10:39:25.058200+00:00",
   "count": 40,
   "events": [
     {
@@ -246,6 +246,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "Astana 2026 World Para Taekwondo Grand Prix Final",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcc-779f-760c-a1db-066b11207e5b/1",
+      "date": "11/27/2026",
+      "deadline": null,
+      "location": "ASTANA, KAZAKHSTAN",
+      "country": "ASTANA, KAZAKHSTAN",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "European Cadet Championships 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f19d4b-8389-2fc6-bafc-06be3f44746f/1",
       "date": "11/26/2026",
@@ -257,16 +266,7 @@
     {
       "name": "Astana 2026 World Taekwondo Grand Prix Final",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd51-ea64-383f-a1db-066b11207e5b/1",
-      "date": "11/27/2026",
-      "deadline": null,
-      "location": "ASTANA, KAZAKHSTAN",
-      "country": "ASTANA, KAZAKHSTAN",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Astana 2026 World Para Taekwondo Grand Prix Final",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fdcc-779f-760c-a1db-066b11207e5b/1",
-      "date": "11/27/2026",
+      "date": "11/28/2026",
       "deadline": null,
       "location": "ASTANA, KAZAKHSTAN",
       "country": "ASTANA, KAZAKHSTAN",
