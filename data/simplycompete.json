@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T10:10:29.513971+00:00",
-  "count": 40,
+  "updated_at": "2026-10-16T20:07:40.332652+00:00",
+  "count": 41,
   "events": [
     {
       "name": "12th Croatia Open Poomsae",
@@ -183,6 +183,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "(Invitation ONLY) Standing IR – Special Registration (Guangzhou 2026)",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1c95c-e12c-31df-9a29-023d1c5009dd/1",
+      "date": "11/17/2026",
+      "deadline": null,
+      "location": "Guangzhou, People's Republic Of China",
+      "country": "People's Republic Of China",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "2026 The Malta E2",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f19343-1b40-f636-bafc-06be3f44746f/1",
       "date": "11/21/2026",
@@ -329,7 +338,7 @@
     {
       "name": "Wuxi 2026 World Taekwondo Grand Slam Champions Series",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-4be2-dda6-a1db-066b11207e5b/1",
-      "date": "12/12/2026",
+      "date": "12/13/2026",
       "deadline": null,
       "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
       "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
