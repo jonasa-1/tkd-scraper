@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T10:41:40.021242+00:00",
-  "count": 37,
+  "updated_at": "2026-10-22T20:51:46.731609+00:00",
+  "count": 38,
   "events": [
     {
       "name": "(Poomsae) 2026 Pan American Club Championships",
@@ -318,21 +318,30 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "European Under 21 Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1b719-c5a9-54ab-b354-023d1c5009dd/1",
-      "date": "12/15/2026",
-      "deadline": null,
-      "location": "Split, Croatia",
-      "country": "Split, Croatia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
       "name": "2026 Krasniqi Open E2",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a799-517e-b867-bed1-023d1c5009dd/1",
       "date": "12/19/2026",
       "deadline": null,
       "location": "Aigle, Switzerland",
       "country": "Switzerland",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Asian Indoor and Martial Arts Games 2026",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1ce10-c500-ac1d-9a29-023d1c5009dd/1",
+      "date": "12/16/2026",
+      "deadline": null,
+      "location": "Riyadh, Saudi Arabia",
+      "country": "Riyadh, Saudi Arabia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "2026 European Under 21 Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1ce2f-596d-f88f-9a29-023d1c5009dd/1",
+      "date": "12/16/2026",
+      "deadline": null,
+      "location": "Split, Croatia",
+      "country": "Croatia",
       "source": "World Taekwondo (SimplyCompete)"
     }
   ]
