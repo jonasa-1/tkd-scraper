@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T11:34:55.510394+00:00",
+  "updated_at": "2026-10-26T21:56:04.228842+00:00",
   "count": 33,
   "events": [
     {
@@ -247,11 +247,11 @@
     },
     {
       "name": "Wuxi 2026 World Taekwondo Grand Slam Challenge",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-1986-b6d9-a1db-066b11207e5b/1",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1d148-7b49-a3b4-9a29-023d1c5009dd/1",
       "date": "12/09/2026",
       "deadline": null,
-      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
+      "location": "Wuxi, People's Republic Of China",
+      "country": "People's Republic Of China",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
@@ -273,6 +273,15 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
+      "name": "2026 European Under 21 Taekwondo Championships",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1ce2f-596d-f88f-9a29-023d1c5009dd/1",
+      "date": "12/15/2026",
+      "deadline": null,
+      "location": "Split, Croatia",
+      "country": "Croatia",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
       "name": "2026 Krasniqi Open E2",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a799-517e-b867-bed1-023d1c5009dd/1",
       "date": "12/19/2026",
@@ -288,15 +297,6 @@
       "deadline": null,
       "location": "Riyadh, Saudi Arabia",
       "country": "Riyadh, Saudi Arabia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "2026 European Under 21 Taekwondo Championships",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1ce2f-596d-f88f-9a29-023d1c5009dd/1",
-      "date": "12/16/2026",
-      "deadline": null,
-      "location": "Split, Croatia",
-      "country": "Croatia",
       "source": "World Taekwondo (SimplyCompete)"
     }
   ]
