@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T11:41:18.083258+00:00",
-  "count": 3,
+  "updated_at": "2026-10-28T21:54:56.606541+00:00",
+  "count": 7,
   "events": [
     {
       "name": "ULTIMATE WINTER CHAMPIONSHIPS",
@@ -25,6 +25,42 @@
       "url": "https://www.ma-regonline.com/tournaments/1623/THE-4th-LMC-CHAMPIONSHIPS",
       "date": "2026-12-06",
       "deadline": "2026-11-23",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "APEX CHAMPIONSHIPS 2027",
+      "url": "https://www.ma-regonline.com/tournaments/1625/APEX-CHAMPIONSHIPS-2027",
+      "date": "2027-03-28",
+      "deadline": "2027-03-14",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "3rd ULTIMATE NORTH EAST CHAMPIONSHIPS",
+      "url": "https://www.ma-regonline.com/tournaments/1420/3rd-ULTIMATE-NORTH-EAST-CHAMPIONSHIPS",
+      "date": "2027-05-09",
+      "deadline": "2027-04-30",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "APEX 1-2-1",
+      "url": "https://www.ma-regonline.com/tournaments/1619/APEX-1-2-1",
+      "date": "2027-06-06",
+      "deadline": "2027-05-28",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "THE ULTIMATE WINTER CHAMPIONSHIPS 2027",
+      "url": "https://www.ma-regonline.com/tournaments/1565/THE-ULTIMATE-WINTER-CHAMPIONSHIPS-2027",
+      "date": "2027-11-14",
+      "deadline": "2027-11-05",
       "location": "",
       "country": "",
       "source": "MA-RegOnline"
