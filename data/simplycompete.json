@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T21:54:53.998156+00:00",
-  "count": 32,
+  "updated_at": "2026-10-29T11:49:25.199801+00:00",
+  "count": 31,
   "events": [
     {
       "name": "(Seniors) 23rd Galeb Belgrade Trophy-Serbia Open 2026",
@@ -30,7 +30,7 @@
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
-      "name": "(Poomsae) Colombia Open 2026",
+      "name": "CANCELLED (Poomsae) Colombia Open 2026",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f1b7cf-ccf4-6d1a-b354-023d1c5009dd/1",
       "date": "11/04/2026",
       "deadline": null,
@@ -279,15 +279,6 @@
       "deadline": null,
       "location": "Aigle, Switzerland",
       "country": "Switzerland",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Asian Indoor and Martial Arts Games 2026",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1ce10-c500-ac1d-9a29-023d1c5009dd/1",
-      "date": "12/16/2026",
-      "deadline": null,
-      "location": "Riyadh, Saudi Arabia",
-      "country": "Riyadh, Saudi Arabia",
       "source": "World Taekwondo (SimplyCompete)"
     }
   ]
