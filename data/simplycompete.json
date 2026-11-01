@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-10-31T20:41:57.568221+00:00",
-  "count": 30,
+  "updated_at": "2026-11-01T12:04:41.324419+00:00",
+  "count": 28,
   "events": [
-    {
-      "name": "(Youth) 23rd Galeb Belgrade Trophy-Serbia Open 2026 - E1",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1aba3-7b36-972f-b354-023d1c5009dd/1",
-      "date": "11/01/2026",
-      "deadline": null,
-      "location": "Belgrade, Serbia",
-      "country": "Serbia",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "(Invitational) 4th WT Virtual Taekwondo Match Operator Certification Course",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f1b734-7895-9fd7-b354-023d1c5009dd/1",
@@ -243,15 +234,6 @@
       "deadline": null,
       "location": "Wuxi, People's Republic Of China",
       "country": "People's Republic Of China",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "Wuxi 2026 World Taekwondo World Cup Team Championships Final",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f0fd52-6eeb-8662-a1db-066b11207e5b/1",
-      "date": "12/15/2026",
-      "deadline": null,
-      "location": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
-      "country": "WUXI, PEOPLE'S REPUBLIC OF CHINA",
       "source": "World Taekwondo (SimplyCompete)"
     },
     {
