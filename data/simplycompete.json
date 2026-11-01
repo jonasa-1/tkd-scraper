@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T12:04:41.324419+00:00",
-  "count": 28,
+  "updated_at": "2026-11-01T21:23:09.825998+00:00",
+  "count": 29,
   "events": [
     {
       "name": "(Invitational) 4th WT Virtual Taekwondo Match Operator Certification Course",
@@ -231,6 +231,15 @@
       "name": "Wuxi 2026 World Taekwondo Grand Slam Champions Series",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f1d45b-9680-9ea9-9a29-023d1c5009dd/1",
       "date": "12/13/2026",
+      "deadline": null,
+      "location": "Wuxi, People's Republic Of China",
+      "country": "People's Republic Of China",
+      "source": "World Taekwondo (SimplyCompete)"
+    },
+    {
+      "name": "Wuxi 2026 World Taekwondo World Cup Team Championships Final",
+      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1d5ed-1374-9a44-9a29-023d1c5009dd/1",
+      "date": "12/15/2026",
       "deadline": null,
       "location": "Wuxi, People's Republic Of China",
       "country": "People's Republic Of China",
