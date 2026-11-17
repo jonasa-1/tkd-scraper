@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T01:07:04.855722+00:00",
-  "count": 6,
+  "updated_at": "2026-11-17T14:56:28.054734+00:00",
+  "count": 8,
   "events": [
     {
       "name": "THE 4th LMC CHAMPIONSHIPS",
@@ -12,10 +12,28 @@
       "source": "MA-RegOnline"
     },
     {
+      "name": "WHISTON 121",
+      "url": "https://www.ma-regonline.com/tournaments/1466/WHISTON-121",
+      "date": "2027-01-24",
+      "deadline": "2027-01-15",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
       "name": "APEX CHAMPIONSHIPS 2027",
       "url": "https://www.ma-regonline.com/tournaments/1625/APEX-CHAMPIONSHIPS-2027",
       "date": "2027-03-28",
       "deadline": "2027-03-14",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "WHISTON SPRING 1-2-1",
+      "url": "https://www.ma-regonline.com/tournaments/1617/WHISTON-SPRING-1-2-1",
+      "date": "2027-05-02",
+      "deadline": "2027-04-23",
       "location": "",
       "country": "",
       "source": "MA-RegOnline"
