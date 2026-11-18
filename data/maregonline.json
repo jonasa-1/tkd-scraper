@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T14:37:39.479448+00:00",
-  "count": 8,
+  "updated_at": "2026-11-18T23:37:13.808236+00:00",
+  "count": 9,
   "events": [
     {
       "name": "THE 4th LMC CHAMPIONSHIPS",
@@ -61,6 +61,15 @@
       "url": "https://www.ma-regonline.com/tournaments/1587/KIXSTAR-OPEN-2027",
       "date": "2027-06-20",
       "deadline": "2027-06-07",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "WHISTON TKD OPEN NATIONALS PREP EVENT",
+      "url": "https://www.ma-regonline.com/tournaments/1533/WHISTON-TKD-OPEN-NATIONALS-PREP-EVENT",
+      "date": "2027-09-05",
+      "deadline": "2027-08-20",
       "location": "",
       "country": "",
       "source": "MA-RegOnline"
