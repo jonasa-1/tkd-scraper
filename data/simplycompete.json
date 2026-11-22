@@ -1,34 +1,7 @@
 {
-  "updated_at": "2026-11-21T22:27:59.438526+00:00",
-  "count": 20,
+  "updated_at": "2026-11-22T13:38:22.237723+00:00",
+  "count": 17,
   "events": [
-    {
-      "name": "Muju Taekwondowon 2026 11th World Para Taekwondo Championships (G-14)",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f18201-5c29-3a8b-a951-06eafe362e4f/1",
-      "date": "11/20/2026",
-      "deadline": null,
-      "location": "Muju, Republic of Korea",
-      "country": "Republic of Korea",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "TD Refresher Course 2026 Guangzhou",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a616-6877-82cc-b40b-023d1c5009dd/1",
-      "date": "11/21/2026",
-      "deadline": null,
-      "location": "Guangzhou, People's Republic Of China",
-      "country": "People's Republic Of China",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
-    {
-      "name": "TD Certification Course 2026 Guangzhou",
-      "url": "https://worldtkd.simplycompete.com/eventDetails/11f1a620-e98b-bf7e-b40b-023d1c5009dd/1",
-      "date": "11/21/2026",
-      "deadline": null,
-      "location": "Guangzhou, People's Republic Of China",
-      "country": "People's Republic Of China",
-      "source": "World Taekwondo (SimplyCompete)"
-    },
     {
       "name": "(Kyorugi) 2026 India International Open Championship",
       "url": "https://worldtkd.simplycompete.com/eventDetails/11f1b8d2-6c07-0c52-b354-023d1c5009dd/1",
