@@ -1,5 +1,87 @@
 {
-  "updated_at": "2026-11-27T15:39:06.860826+00:00",
-  "count": 0,
-  "events": []
+  "updated_at": "2026-11-28T00:42:10.700760+00:00",
+  "count": 9,
+  "events": [
+    {
+      "name": "THE 4th LMC CHAMPIONSHIPS",
+      "url": "https://www.ma-regonline.com/tournaments/1623/THE-4th-LMC-CHAMPIONSHIPS",
+      "date": "2026-12-06",
+      "deadline": "2026-11-25",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "WHISTON 121",
+      "url": "https://www.ma-regonline.com/tournaments/1466/WHISTON-121",
+      "date": "2027-01-24",
+      "deadline": "2027-01-15",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "APEX CHAMPIONSHIPS 2027",
+      "url": "https://www.ma-regonline.com/tournaments/1625/APEX-CHAMPIONSHIPS-2027",
+      "date": "2027-03-28",
+      "deadline": "2027-03-14",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "WHISTON SPRING 1-2-1",
+      "url": "https://www.ma-regonline.com/tournaments/1617/WHISTON-SPRING-1-2-1",
+      "date": "2027-05-02",
+      "deadline": "2027-04-23",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "3rd ULTIMATE NORTH EAST CHAMPIONSHIPS",
+      "url": "https://www.ma-regonline.com/tournaments/1420/3rd-ULTIMATE-NORTH-EAST-CHAMPIONSHIPS",
+      "date": "2027-05-09",
+      "deadline": "2027-04-30",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "APEX 1-2-1",
+      "url": "https://www.ma-regonline.com/tournaments/1619/APEX-1-2-1",
+      "date": "2027-06-06",
+      "deadline": "2027-05-28",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "KIXSTAR OPEN 2027",
+      "url": "https://www.ma-regonline.com/tournaments/1587/KIXSTAR-OPEN-2027",
+      "date": "2027-06-20",
+      "deadline": "2027-06-07",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "WHISTON TKD OPEN NATIONALS PREP EVENT",
+      "url": "https://www.ma-regonline.com/tournaments/1533/WHISTON-TKD-OPEN-NATIONALS-PREP-EVENT",
+      "date": "2027-09-05",
+      "deadline": "2027-08-20",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    },
+    {
+      "name": "THE ULTIMATE WINTER CHAMPIONSHIPS 2027",
+      "url": "https://www.ma-regonline.com/tournaments/1565/THE-ULTIMATE-WINTER-CHAMPIONSHIPS-2027",
+      "date": "2027-11-14",
+      "deadline": "2027-11-05",
+      "location": "",
+      "country": "",
+      "source": "MA-RegOnline"
+    }
+  ]
 }
